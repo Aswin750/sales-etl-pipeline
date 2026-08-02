@@ -1,0 +1,961 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,City,Product,Category,Quantity,Unit_Price,Discount,Payment_Method,Order_Status,Sales
+ORD000560,2025-11-24,CUST000560,Amit Kumar,Mumbai,Laptop,Electronics,3,55000.0,20,UPI,Cancelled,132000.0
+ORD000706,2025-05-01,CUST000706,Anjali Menon,Kochi,Smartphone,Electronics,4,30000.0,10,Debit Card,Cancelled,108000.0
+ORD000219,2025-09-01,CUST000219,Neha Kapoor,Pune,Mouse,Accessories,3,700.0,5,Debit Card,Cancelled,1995.0
+ORD000837,2025-03-30,CUST000837,Vikram Singh,Pune,Mouse,Accessories,1,700.0,15,Debit Card,Delivered,595.0
+ORD000319,2025-05-09,CUST000319,Anjali Menon,Mumbai,Mouse,Accessories,2,700.0,10,UPI,Returned,1260.0
+ORD000591,2025-02-03,CUST000591,Vikram Singh,Hyderabad,Headphones,Accessories,1,2500.0,20,Debit Card,Returned,2000.0
+ORD000500,2025-07-16,CUST000500,Priya Nair,Chennai,Printer,Electronics,3,8000.0,5,Net Banking,Returned,22800.0
+ORD000880,2025-05-03,CUST000880,Rahul Sharma,Bengaluru,Smartwatch,Wearables,5,5000.0,30,Credit Card,Cancelled,17500.0
+ORD000626,2025-01-05,CUST000626,Amit Kumar,Chennai,Laptop,Electronics,3,55000.0,5,Credit Card,Cancelled,156750.0
+ORD000373,2025-08-28,CUST000373,Meera Iyer,Chennai,Keyboard,Accessories,2,1500.0,15,Net Banking,Returned,2550.0
+ORD000295,2025-04-11,CUST000295,Vikram Singh,Hyderabad,Mouse,Accessories,3,700.0,5,Debit Card,Cancelled,1995.0
+ORD000585,2025-07-30,CUST000585,Sneha Reddy,Chennai,Laptop,Electronics,4,55000.0,10,Net Banking,Cancelled,198000.0
+ORD000695,2025-01-24,CUST000695,Amit Kumar,Mumbai,Smartphone,Electronics,5,30000.0,15,Cash,Delivered,127500.0
+ORD000859,2025-09-07,CUST000859,Vikram Singh,Mumbai,Smartphone,Electronics,5,30000.0,15,Credit Card,Returned,127500.0
+ORD000445,2025-06-03,CUST000445,Sanjay Das,Delhi,Smartwatch,Wearables,3,5000.0,5,UPI,Delivered,14250.0
+ORD000196,2025-12-12,CUST000196,Meera Iyer,Mumbai,Laptop,Electronics,5,55000.0,15,Credit Card,Cancelled,233750.0
+ORD000926,2025-02-26,CUST000926,Amit Kumar,Hyderabad,Monitor,Electronics,3,12000.0,15,UPI,Delivered,30600.0
+ORD000327,2025-03-09,CUST000327,Meera Iyer,Hyderabad,Laptop,Electronics,3,55000.0,20,UPI,Delivered,132000.0
+ORD000569,2025-12-31,CUST000569,Priya Nair,Pune,Printer,Electronics,2,8000.0,30,Debit Card,Cancelled,11200.0
+ORD000847,2025-03-14,CUST000847,Vikram Singh,Hyderabad,Headphones,Accessories,3,2500.0,10,UPI,Returned,6750.0
+ORD000275,2025-07-22,CUST000275,Arjun Menon,Coimbatore,Monitor,Electronics,1,12000.0,10,Credit Card,Returned,10800.0
+ORD000457,2025-06-21,CUST000457,Unknown,Hyderabad,Headphones,Accessories,4,2500.0,30,Debit Card,Delivered,7000.0
+ORD000017,2025-11-14,CUST000017,Sanjay Das,Chennai,Smartphone,Electronics,2,30000.0,15,Net Banking,Delivered,51000.0
+ORD000800,2025-02-06,CUST000800,Sneha Reddy,Kochi,Monitor,Electronics,2,12000.0,15,UPI,Returned,20400.0
+ORD000594,2025-07-21,CUST000594,Priya Nair,Coimbatore,Headphones,Accessories,3,2500.0,10,Net Banking,Returned,6750.0
+ORD000231,2025-12-14,CUST000231,Sneha Reddy,Kochi,Mouse,Accessories,4,700.0,30,UPI,Delivered,1960.0
+ORD000197,2025-11-25,CUST000197,Priya Nair,Kochi,Laptop,Electronics,1,55000.0,5,Credit Card,Cancelled,52250.0
+ORD000415,2025-03-19,CUST000415,Neha Kapoor,Chennai,Headphones,Accessories,5,2500.0,5,Debit Card,Delivered,11875.0
+ORD000914,2025-08-01,CUST000914,Priya Nair,Kochi,Headphones,Accessories,1,2500.0,20,Net Banking,Cancelled,2000.0
+ORD000173,2025-12-26,CUST000173,Anjali Menon,Bengaluru,Smartphone,Electronics,1,30000.0,15,Debit Card,Cancelled,25500.0
+ORD000581,2025-04-29,CUST000581,Meera Iyer,Kochi,Monitor,Electronics,3,12000.0,10,UPI,Delivered,32400.0
+ORD000132,2025-03-14,CUST000132,Sneha Reddy,Mumbai,Smartwatch,Wearables,1,5000.0,10,Credit Card,Delivered,4500.0
+ORD000902,2025-04-04,CUST000902,Neha Kapoor,Delhi,Smartwatch,Wearables,5,5000.0,20,UPI,Delivered,20000.0
+ORD000838,2025-02-19,CUST000838,Arjun Menon,Kochi,Headphones,Accessories,2,2500.0,20,Credit Card,Cancelled,4000.0
+ORD000755,2025-09-14,CUST000755,Anjali Menon,Delhi,Keyboard,Accessories,2,1500.0,5,Net Banking,Returned,2850.0
+ORD000659,2025-06-25,CUST000659,Meera Iyer,Mumbai,Monitor,Electronics,5,12000.0,15,UPI,Returned,51000.0
+ORD000514,2025-05-19,CUST000514,Sanjay Das,Kochi,Laptop,Electronics,1,55000.0,20,Cash,Cancelled,44000.0
+ORD000154,2025-12-05,CUST000154,Sneha Reddy,Mumbai,Headphones,Accessories,1,2500.0,10,UPI,Returned,2250.0
+ORD000376,2025-04-19,CUST000376,Neha Kapoor,Mumbai,Smartwatch,Wearables,4,5000.0,10,Debit Card,Delivered,18000.0
+ORD000776,2025-04-09,CUST000776,Arjun Menon,Hyderabad,Smartphone,Electronics,3,30000.0,15,Credit Card,Returned,76500.0
+ORD000336,2025-02-21,CUST000336,Meera Iyer,Coimbatore,Printer,Electronics,5,8000.0,30,Cash,Cancelled,28000.0
+ORD000749,2025-09-26,CUST000749,Arjun Menon,Coimbatore,Monitor,Electronics,4,12000.0,20,Credit Card,Returned,38400.0
+ORD000856,2025-11-19,CUST000856,Vikram Singh,Hyderabad,Smartphone,Electronics,3,30000.0,15,Cash,Returned,76500.0
+ORD000602,2025-05-21,CUST000602,Priya Nair,Pune,Headphones,Accessories,3,2500.0,5,Credit Card,Returned,7125.0
+ORD000241,2025-08-11,CUST000241,Sanjay Das,Hyderabad,Mouse,Accessories,5,700.0,5,Debit Card,Delivered,3325.0
+ORD000769,2025-03-28,CUST000769,Neha Kapoor,Pune,Keyboard,Accessories,5,1500.0,30,UPI,Delivered,5250.0
+ORD000262,2025-03-13,CUST000262,Priya Nair,Mumbai,Headphones,Accessories,4,2500.0,5,Debit Card,Returned,9500.0
+ORD000430,2025-07-20,CUST000430,Amit Kumar,Bengaluru,Smartphone,Electronics,2,30000.0,15,UPI,Cancelled,51000.0
+ORD000704,2025-12-23,CUST000704,Amit Kumar,Coimbatore,Smartphone,Electronics,1,30000.0,20,Cash,Delivered,24000.0
+ORD000278,2025-02-17,CUST000278,Rahul Sharma,Coimbatore,Laptop,Electronics,2,55000.0,20,Net Banking,Delivered,88000.0
+ORD000140,2025-12-03,CUST000140,Arjun Menon,Mumbai,Keyboard,Accessories,3,1500.0,5,Credit Card,Returned,4275.0
+ORD000180,2025-07-07,CUST000180,Rahul Sharma,Coimbatore,Smartwatch,Wearables,4,5000.0,30,Net Banking,Cancelled,14000.0
+ORD000065,2025-08-25,CUST000065,Vikram Singh,Mumbai,Monitor,Electronics,1,12000.0,30,Debit Card,Cancelled,8400.0
+ORD000144,2025-02-02,CUST000144,Anjali Menon,Pune,Laptop,Electronics,4,55000.0,10,Net Banking,Delivered,198000.0
+ORD000308,2025-05-04,CUST000308,Neha Kapoor,Mumbai,Laptop,Electronics,2,55000.0,15,Net Banking,Cancelled,93500.0
+ORD000288,2025-07-27,CUST000288,Anjali Menon,Bengaluru,Keyboard,Accessories,5,1500.0,10,Cash,Cancelled,6750.0
+ORD000680,2025-04-11,CUST000680,Neha Kapoor,Coimbatore,Monitor,Electronics,2,12000.0,20,Net Banking,Delivered,19200.0
+ORD000429,2025-10-02,CUST000429,Vikram Singh,Mumbai,Headphones,Accessories,1,2500.0,15,Cash,Delivered,2125.0
+ORD000618,2025-11-18,CUST000618,Priya Nair,Kochi,Monitor,Electronics,1,12000.0,5,Cash,Delivered,11400.0
+ORD000468,2025-04-03,CUST000468,Amit Kumar,Bengaluru,Laptop,Electronics,4,55000.0,20,Credit Card,Delivered,176000.0
+ORD000265,2025-06-10,CUST000265,Rahul Sharma,Mumbai,Printer,Electronics,1,8000.0,15,UPI,Delivered,6800.0
+ORD000143,2025-12-10,CUST000143,Sneha Reddy,Kochi,Headphones,Accessories,4,2500.0,20,Credit Card,Returned,8000.0
+ORD000172,2025-12-01,CUST000172,Neha Kapoor,Mumbai,Headphones,Accessories,2,2500.0,5,Credit Card,Cancelled,4750.0
+ORD000696,2025-11-10,CUST000696,Priya Nair,Hyderabad,Smartwatch,Wearables,1,5000.0,20,Net Banking,Returned,4000.0
+ORD000642,2025-02-01,CUST000642,Arjun Menon,Delhi,Mouse,Accessories,4,700.0,10,Credit Card,Delivered,2520.0
+ORD000028,2025-10-28,CUST000028,Amit Kumar,Kochi,Headphones,Accessories,4,2500.0,30,Debit Card,Returned,7000.0
+ORD000121,2025-03-14,CUST000121,Priya Nair,Bengaluru,Headphones,Accessories,2,2500.0,20,Net Banking,Cancelled,4000.0
+ORD000305,2025-05-10,CUST000305,Arjun Menon,Delhi,Laptop,Electronics,1,55000.0,30,Net Banking,Cancelled,38500.0
+ORD000272,2025-02-16,CUST000272,Sneha Reddy,Hyderabad,Keyboard,Accessories,4,1500.0,30,Net Banking,Returned,4200.0
+ORD000382,2025-05-01,CUST000382,Vikram Singh,Hyderabad,Printer,Electronics,2,8000.0,15,UPI,Returned,13600.0
+ORD000380,2025-11-20,CUST000380,Rahul Sharma,Kochi,Smartphone,Electronics,3,30000.0,15,Credit Card,Delivered,76500.0
+ORD000627,2025-03-14,CUST000627,Sanjay Das,Chennai,Headphones,Accessories,1,2500.0,5,Debit Card,Delivered,2375.0
+ORD000740,2025-10-30,CUST000740,Priya Nair,Bengaluru,Smartwatch,Wearables,4,5000.0,30,Credit Card,Delivered,14000.0
+ORD000250,2025-10-21,CUST000250,Amit Kumar,Chennai,Smartwatch,Wearables,2,5000.0,15,Debit Card,Cancelled,8500.0
+ORD000537,2025-12-04,CUST000537,Meera Iyer,Hyderabad,Printer,Electronics,4,8000.0,30,Debit Card,Delivered,22400.0
+ORD000893,2025-02-27,CUST000893,Meera Iyer,Bengaluru,Laptop,Electronics,3,55000.0,30,Cash,Returned,115500.0
+ORD000676,2025-04-10,CUST000676,Amit Kumar,Kochi,Mouse,Accessories,3,700.0,20,Cash,Cancelled,1680.0
+ORD000178,2025-03-26,CUST000178,Rahul Sharma,Chennai,Monitor,Electronics,3,12000.0,5,Credit Card,Returned,34200.0
+ORD000254,2025-02-12,CUST000254,Arjun Menon,Mumbai,Smartphone,Electronics,4,30000.0,30,UPI,Cancelled,84000.0
+ORD000638,2025-08-27,CUST000638,Amit Kumar,Coimbatore,Smartwatch,Wearables,3,5000.0,15,Credit Card,Returned,12750.0
+ORD000076,2025-02-19,CUST000076,Anjali Menon,Hyderabad,Laptop,Electronics,5,55000.0,10,Cash,Cancelled,247500.0
+ORD000973,2025-06-15,CUST000973,Sanjay Das,Coimbatore,Laptop,Electronics,4,55000.0,15,Cash,Delivered,187000.0
+ORD000573,2025-04-23,CUST000573,Neha Kapoor,Mumbai,Laptop,Electronics,1,55000.0,10,Net Banking,Returned,49500.0
+ORD000521,2025-01-18,CUST000521,Priya Nair,Bengaluru,Keyboard,Accessories,2,1500.0,30,Cash,Returned,2100.0
+ORD000089,2025-03-18,CUST000089,Vikram Singh,Coimbatore,Monitor,Electronics,2,12000.0,10,Credit Card,Cancelled,21600.0
+ORD000890,2025-06-30,CUST000890,Vikram Singh,Mumbai,Headphones,Accessories,2,2500.0,20,Credit Card,Cancelled,4000.0
+ORD000878,2025-10-19,CUST000878,Sneha Reddy,Kochi,Mouse,Accessories,1,700.0,30,Cash,Delivered,490.0
+ORD000977,2025-12-11,CUST000977,Anjali Menon,Pune,Laptop,Electronics,1,55000.0,10,Debit Card,Delivered,49500.0
+ORD000623,2025-01-21,CUST000623,Rahul Sharma,Coimbatore,Smartwatch,Wearables,2,5000.0,10,UPI,Returned,9000.0
+ORD000987,2025-06-21,CUST000987,Amit Kumar,Bengaluru,Mouse,Accessories,4,700.0,30,Credit Card,Returned,1960.0
+ORD000796,2025-02-17,CUST000796,Sneha Reddy,Chennai,Mouse,Accessories,1,700.0,10,Net Banking,Returned,630.0
+ORD000707,2025-09-08,CUST000707,Anjali Menon,Mumbai,Keyboard,Accessories,3,1500.0,30,UPI,Delivered,3150.0
+ORD000249,2025-01-23,CUST000249,Sanjay Das,Chennai,Headphones,Accessories,3,2500.0,5,UPI,Cancelled,7125.0
+ORD000687,2025-07-20,CUST000687,Rahul Sharma,Hyderabad,Keyboard,Accessories,4,1500.0,30,Net Banking,Delivered,4200.0
+ORD000350,2025-07-11,CUST000350,Anjali Menon,Kochi,Laptop,Electronics,2,55000.0,15,Net Banking,Returned,93500.0
+ORD000875,2025-03-27,CUST000875,Rahul Sharma,Pune,Monitor,Electronics,2,12000.0,10,Net Banking,Delivered,21600.0
+ORD000770,2025-08-26,CUST000770,Neha Kapoor,Delhi,Headphones,Accessories,5,2500.0,15,Cash,Cancelled,10625.0
+ORD000803,2025-08-24,CUST000803,Arjun Menon,Pune,Monitor,Electronics,5,12000.0,5,Net Banking,Delivered,57000.0
+ORD000744,2025-12-27,CUST000744,Sanjay Das,Chennai,Keyboard,Accessories,5,1500.0,15,Cash,Returned,6375.0
+ORD000559,2025-12-13,CUST000559,Arjun Menon,Delhi,Keyboard,Accessories,5,1500.0,10,UPI,Cancelled,6750.0
+ORD000586,2025-01-20,CUST000586,Sanjay Das,Kochi,Laptop,Electronics,3,55000.0,10,Cash,Returned,148500.0
+ORD000285,2025-12-27,CUST000285,Anjali Menon,Bengaluru,Laptop,Electronics,2,55000.0,20,Credit Card,Delivered,88000.0
+ORD000853,2025-05-20,CUST000853,Sanjay Das,Hyderabad,Mouse,Accessories,3,700.0,10,Credit Card,Delivered,1890.0
+ORD000388,2025-05-16,CUST000388,Arjun Menon,Pune,Mouse,Accessories,1,700.0,30,Debit Card,Delivered,490.0
+ORD000729,2025-05-23,CUST000729,Priya Nair,Coimbatore,Headphones,Accessories,4,2500.0,15,Debit Card,Delivered,8500.0
+ORD000192,2025-11-26,CUST000192,Amit Kumar,Delhi,Smartphone,Electronics,2,30000.0,15,Cash,Delivered,51000.0
+ORD000720,2025-11-24,CUST000720,Sanjay Das,Hyderabad,Printer,Electronics,4,8000.0,15,Cash,Delivered,27200.0
+ORD000156,2025-04-17,CUST000156,Meera Iyer,Bengaluru,Smartphone,Electronics,2,30000.0,5,Cash,Delivered,57000.0
+ORD000922,2025-05-02,CUST000922,Amit Kumar,Pune,Smartwatch,Wearables,1,5000.0,15,Net Banking,Returned,4250.0
+ORD000226,2025-08-09,CUST000226,Priya Nair,Delhi,Laptop,Electronics,2,55000.0,15,Credit Card,Returned,93500.0
+ORD000046,2025-05-29,CUST000046,Priya Nair,Pune,Monitor,Electronics,2,12000.0,5,Credit Card,Delivered,22800.0
+ORD000371,2025-04-25,CUST000371,Meera Iyer,Mumbai,Monitor,Electronics,5,12000.0,5,CASH,Returned,57000.0
+ORD000486,2025-11-06,CUST000486,Arjun Menon,Chennai,Monitor,Electronics,1,12000.0,15,Cash,Cancelled,10200.0
+ORD000448,2025-09-12,CUST000448,Anjali Menon,Delhi,Smartphone,Electronics,5,30000.0,20,UPI,Returned,120000.0
+ORD000330,2025-02-08,CUST000330,Sneha Reddy,Chennai,Headphones,Accessories,3,2500.0,20,Credit Card,Returned,6000.0
+ORD000110,2025-10-22,CUST000110,Arjun Menon,Delhi,Monitor,Electronics,4,12000.0,10,Credit Card,Returned,43200.0
+ORD000002,2025-06-18,CUST000002,Sneha Reddy,Mumbai,Smartphone,Electronics,3,30000.0,15,Credit Card,Cancelled,76500.0
+ORD000787,2025-10-12,CUST000787,Amit Kumar,Pune,Smartwatch,Wearables,2,5000.0,15,UPI,Cancelled,8500.0
+ORD000385,2025-01-21,CUST000385,Sanjay Das,Chennai,Smartphone,Electronics,2,30000.0,10,UPI,Returned,54000.0
+ORD000751,2025-06-26,CUST000751,Vikram Singh,Bengaluru,Headphones,Accessories,3,2500.0,15,Net Banking,Delivered,6375.0
+ORD000688,2025-05-08,CUST000688,Unknown,Pune,Mouse,Accessories,1,700.0,15,CASH,Cancelled,595.0
+ORD000335,2025-05-12,CUST000335,Rahul Sharma,Hyderabad,Smartphone,Electronics,2,30000.0,30,UPI,Returned,42000.0
+ORD000122,2025-10-06,CUST000122,Amit Kumar,Coimbatore,Mouse,Accessories,3,700.0,30,UPI,Returned,1470.0
+ORD000648,2025-01-30,CUST000648,Arjun Menon,Bengaluru,Mouse,Accessories,4,700.0,15,Net Banking,Delivered,2380.0
+ORD000453,2025-02-28,CUST000453,Vikram Singh,Hyderabad,Mouse,Accessories,1,700.0,15,Net Banking,Returned,595.0
+ORD000053,2025-02-16,CUST000053,Meera Iyer,Hyderabad,Laptop,Electronics,4,55000.0,5,UPI,Returned,209000.0
+ORD000218,2025-05-21,CUST000218,Rahul Sharma,Bengaluru,Printer,Electronics,1,8000.0,30,Net Banking,Returned,5600.0
+ORD000474,2025-02-18,CUST000474,Rahul Sharma,Mumbai,Printer,Electronics,1,8000.0,10,Cash,Cancelled,7200.0
+ORD000212,2025-11-29,CUST000212,Vikram Singh,Kochi,Mouse,Accessories,3,700.0,15,Credit Card,Cancelled,1785.0
+ORD000567,2025-01-18,CUST000567,Neha Kapoor,Hyderabad,Laptop,Electronics,5,55000.0,5,Credit Card,Delivered,261250.0
+ORD000851,2025-12-19,CUST000851,Priya Nair,Mumbai,Printer,Electronics,4,8000.0,10,Credit Card,Cancelled,28800.0
+ORD000992,2025-01-14,CUST000992,Vikram Singh,Delhi,Printer,Electronics,3,8000.0,20,Cash,Delivered,19200.0
+ORD000547,2025-12-27,CUST000547,Amit Kumar,Hyderabad,Headphones,Accessories,3,2500.0,15,net banking,Delivered,6375.0
+ORD000069,2025-06-01,CUST000069,Priya Nair,Bengaluru,Laptop,Electronics,2,55000.0,30,UPI,Delivered,77000.0
+ORD000662,2025-06-15,CUST000662,Vikram Singh,Hyderabad,Headphones,Accessories,4,2500.0,15,Debit Card,Returned,8500.0
+ORD000449,2025-06-28,CUST000449,Vikram Singh,Hyderabad,Smartphone,Electronics,3,30000.0,15,Cash,Cancelled,76500.0
+ORD000236,2025-06-20,CUST000236,Anjali Menon,Chennai,Smartwatch,Wearables,1,5000.0,30,Credit Card,Cancelled,3500.0
+ORD000782,2025-01-02,CUST000782,Arjun Menon,Bengaluru,Mouse,Accessories,1,700.0,5,Net Banking,Delivered,665.0
+ORD000299,2025-03-07,CUST000299,Arjun Menon,Delhi,Printer,Electronics,4,8000.0,10,Credit Card,Returned,28800.0
+ORD000306,2025-06-13,CUST000306,Arjun Menon,Delhi,Laptop,Electronics,4,55000.0,15,Debit Card,Cancelled,187000.0
+ORD000741,2025-03-31,CUST000741,Priya Nair,Kochi,Headphones,Accessories,5,2500.0,15,Credit Card,Returned,10625.0
+ORD000355,2025-02-09,CUST000355,Sanjay Das,Mumbai,Smartphone,Electronics,3,30000.0,30,Credit Card,Delivered,63000.0
+ORD000635,2025-12-13,CUST000635,Amit Kumar,Chennai,Mouse,Accessories,2,700.0,20,Debit Card,Delivered,1120.0
+ORD000807,2025-06-26,CUST000807,Meera Iyer,Chennai,Keyboard,Accessories,2,1500.0,15,Net Banking,Returned,2550.0
+ORD000978,2025-04-01,CUST000978,Rahul Sharma,Chennai,Mouse,Accessories,3,700.0,15,Cash,Cancelled,1785.0
+ORD000139,2025-09-30,CUST000139,Arjun Menon,Hyderabad,Laptop,Electronics,4,55000.0,5,Debit Card,Delivered,209000.0
+ORD000868,2025-05-10,CUST000868,Neha Kapoor,Mumbai,Monitor,Electronics,5,12000.0,30,Cash,Cancelled,42000.0
+ORD000745,2025-06-24,CUST000745,Sanjay Das,Chennai,Headphones,Accessories,4,2500.0,15,Credit Card,Delivered,8500.0
+ORD000858,2025-05-19,CUST000858,Neha Kapoor,Coimbatore,Keyboard,Accessories,2,1500.0,5,UPI,Returned,2850.0
+ORD000959,2025-07-29,CUST000959,Rahul Sharma,Hyderabad,Mouse,Accessories,2,700.0,15,Credit Card,Delivered,1190.0
+ORD000872,2025-05-15,CUST000872,Neha Kapoor,Pune,Headphones,Accessories,1,2500.0,30,UPI,Returned,1750.0
+ORD000093,2025-01-06,CUST000093,Meera Iyer,Mumbai,Headphones,Accessories,2,2500.0,30,Cash,Cancelled,3500.0
+ORD000245,2025-03-26,CUST000245,Neha Kapoor,Kochi,Mouse,Accessories,2,700.0,10,Credit Card,Returned,1260.0
+ORD000962,2025-01-23,CUST000962,Anjali Menon,Pune,Printer,Electronics,1,8000.0,15,Net Banking,Returned,6800.0
+ORD000904,2025-12-12,CUST000904,Amit Kumar,Hyderabad,Smartwatch,Wearables,5,5000.0,30,Debit Card,Delivered,17500.0
+ORD000923,2025-01-03,CUST000923,Amit Kumar,Coimbatore,Monitor,Electronics,4,12000.0,5,Net Banking,Delivered,45600.0
+ORD000854,2025-01-22,CUST000854,Anjali Menon,Hyderabad,Smartwatch,Wearables,5,5000.0,5,Cash,Returned,23750.0
+ORD000416,2025-11-10,CUST000416,Sanjay Das,Chennai,Headphones,Accessories,1,2500.0,15,Net Banking,Cancelled,2125.0
+ORD000520,2025-06-16,CUST000520,Sanjay Das,Coimbatore,Mouse,Accessories,4,700.0,15,UPI,Cancelled,2380.0
+ORD000464,2025-12-20,CUST000464,Sanjay Das,Kochi,Monitor,Electronics,2,12000.0,30,UPI,Returned,16800.0
+ORD000105,2025-02-14,CUST000105,Neha Kapoor,Coimbatore,Laptop,Electronics,5,55000.0,30,Cash,Cancelled,192500.0
+ORD000483,2025-08-12,CUST000483,Vikram Singh,Kochi,Laptop,Electronics,1,55000.0,30,Credit Card,Cancelled,38500.0
+ORD000621,2025-09-16,CUST000621,Anjali Menon,Bengaluru,Printer,Electronics,1,8000.0,15,Net Banking,Cancelled,6800.0
+ORD000578,2025-06-29,CUST000578,Rahul Sharma,Kochi,Keyboard,Accessories,3,1500.0,20,Net Banking,Delivered,3600.0
+ORD000597,2025-07-08,CUST000597,Rahul Sharma,Kochi,Headphones,Accessories,2,2500.0,30,UPI,Cancelled,3500.0
+ORD000223,2025-07-13,CUST000223,Sneha Reddy,Delhi,Printer,Electronics,2,8000.0,5,Debit Card,Cancelled,15200.0
+ORD000234,2025-02-19,CUST000234,Arjun Menon,Delhi,Keyboard,Accessories,3,1500.0,10,UPI,Cancelled,4050.0
+ORD000174,2025-11-19,CUST000174,Sanjay Das,Chennai,Headphones,Accessories,4,2500.0,30,UPI,Delivered,7000.0
+ORD000438,2025-03-14,CUST000438,Neha Kapoor,Coimbatore,Printer,Electronics,3,8000.0,5,Credit Card,Cancelled,22800.0
+ORD000324,2025-09-13,CUST000324,Sanjay Das,Mumbai,Smartwatch,Wearables,2,5000.0,15,Net Banking,Delivered,8500.0
+ORD000944,2025-04-10,CUST000944,Priya Nair,Chennai,Smartphone,Electronics,4,30000.0,10,Credit Card,Cancelled,108000.0
+ORD000182,2025-01-30,CUST000182,Amit Kumar,Mumbai,Monitor,Electronics,1,12000.0,5,Net Banking,Returned,11400.0
+ORD000418,2025-10-29,CUST000418,Rahul Sharma,Bengaluru,Monitor,Electronics,1,12000.0,30,Net Banking,Returned,8400.0
+ORD000583,2025-12-11,CUST000583,Amit Kumar,Pune,Printer,Electronics,5,8000.0,30,Net Banking,Returned,28000.0
+ORD000224,2025-08-05,CUST000224,Vikram Singh,Hyderabad,Monitor,Electronics,1,12000.0,15,Debit Card,Delivered,10200.0
+ORD000007,2025-11-14,CUST000007,Sanjay Das,Mumbai,Printer,Electronics,3,8000.0,10,Net Banking,Delivered,21600.0
+ORD000492,2025-07-22,CUST000492,Amit Kumar,Hyderabad,Smartwatch,Wearables,4,5000.0,15,Credit Card,Cancelled,17000.0
+ORD000896,2025-07-05,CUST000896,Meera Iyer,Coimbatore,Smartwatch,Wearables,2,5000.0,30,UPI,Cancelled,7000.0
+ORD000871,2025-06-14,CUST000871,Rahul Sharma,Mumbai,Monitor,Electronics,1,12000.0,10,Net Banking,Delivered,10800.0
+ORD000301,2025-09-20,CUST000301,Rahul Sharma,Kochi,Smartphone,Electronics,2,30000.0,15,Net Banking,Returned,51000.0
+ORD000485,2025-03-17,CUST000485,Meera Iyer,Chennai,Smartwatch,Wearables,1,5000.0,10,Net Banking,Delivered,4500.0
+ORD000941,2025-08-11,CUST000941,Anjali Menon,Coimbatore,Keyboard,Accessories,4,1500.0,20,Cash,Cancelled,4800.0
+ORD000300,2025-01-15,CUST000300,Priya Nair,Bengaluru,Mouse,Accessories,1,700.0,15,Debit Card,Returned,595.0
+ORD000876,2025-01-03,CUST000876,Amit Kumar,Mumbai,Keyboard,Accessories,3,1500.0,15,Credit Card,Cancelled,3825.0
+ORD000251,2025-08-22,CUST000251,Meera Iyer,Bengaluru,Monitor,Electronics,1,12000.0,30,Cash,Cancelled,8400.0
+ORD000775,2025-04-08,CUST000775,Anjali Menon,Kochi,Monitor,Electronics,3,12000.0,5,Net Banking,Delivered,34200.0
+ORD000815,2025-01-17,CUST000815,Arjun Menon,Kochi,Keyboard,Accessories,2,1500.0,15,Cash,Delivered,2550.0
+ORD000502,2025-11-14,CUST000502,Arjun Menon,Chennai,Keyboard,Accessories,3,1500.0,20,Net Banking,Delivered,3600.0
+ORD000086,2025-08-17,CUST000086,Vikram Singh,Mumbai,Laptop,Electronics,3,55000.0,15,Credit Card,Returned,140250.0
+ORD000164,2025-05-06,CUST000164,Arjun Menon,Kochi,Smartphone,Electronics,5,30000.0,20,Debit Card,Cancelled,120000.0
+ORD000362,2025-06-08,CUST000362,Sneha Reddy,Mumbai,Headphones,Accessories,1,2500.0,15,Cash,Delivered,2125.0
+ORD000898,2025-01-21,CUST000898,Sneha Reddy,Delhi,Printer,Electronics,3,8000.0,20,net banking,Delivered,19200.0
+ORD000035,2025-12-04,CUST000035,Sneha Reddy,Chennai,Smartphone,Electronics,2,30000.0,15,Debit Card,Returned,51000.0
+ORD000125,2025-03-13,CUST000125,Vikram Singh,Pune,Mouse,Accessories,5,700.0,5,Cash,Returned,3325.0
+ORD000713,2025-11-24,CUST000713,Sanjay Das,Pune,Smartphone,Electronics,1,30000.0,30,Cash,Cancelled,21000.0
+ORD000860,2025-08-12,CUST000860,Neha Kapoor,Delhi,Smartwatch,Wearables,1,5000.0,20,Credit Card,Cancelled,4000.0
+ORD000177,2025-02-25,CUST000177,Amit Kumar,Chennai,Keyboard,Accessories,5,1500.0,15,Cash,Cancelled,6375.0
+ORD000538,2025-06-25,CUST000538,Neha Kapoor,Chennai,Smartwatch,Wearables,2,5000.0,20,Net Banking,Delivered,8000.0
+ORD000699,2025-04-08,CUST000699,Sanjay Das,Delhi,Printer,Electronics,5,8000.0,20,Cash,Delivered,32000.0
+ORD000420,2025-10-01,CUST000420,Neha Kapoor,Pune,Keyboard,Accessories,3,1500.0,15,UPI,Cancelled,3825.0
+ORD000441,2025-03-28,CUST000441,Sanjay Das,Mumbai,Mouse,Accessories,4,700.0,20,Cash,Returned,2240.0
+ORD000998,2025-10-08,CUST000998,Meera Iyer,Kochi,Monitor,Electronics,4,12000.0,5,Debit Card,Returned,45600.0
+ORD000286,2025-06-29,CUST000286,Amit Kumar,Bengaluru,Monitor,Electronics,4,12000.0,20,Credit Card,Delivered,38400.0
+ORD000791,2025-01-19,CUST000791,Neha Kapoor,Chennai,Mouse,Accessories,2,700.0,20,Debit Card,Delivered,1120.0
+ORD000040,2025-09-26,CUST000040,Arjun Menon,Hyderabad,Headphones,Accessories,5,2500.0,20,Credit Card,Cancelled,10000.0
+ORD000032,2025-04-30,CUST000032,Vikram Singh,Delhi,Smartwatch,Wearables,5,5000.0,10,Cash,Delivered,22500.0
+ORD000629,2025-03-04,CUST000629,Amit Kumar,Delhi,Smartwatch,Wearables,1,5000.0,5,Debit Card,Cancelled,4750.0
+ORD000647,2025-08-28,CUST000647,Meera Iyer,Hyderabad,Smartphone,Electronics,4,30000.0,10,Credit Card,Cancelled,108000.0
+ORD000412,2025-05-09,CUST000412,Anjali Menon,Chennai,Headphones,Accessories,3,2500.0,15,Net Banking,Cancelled,6375.0
+ORD000488,2025-05-21,CUST000488,Priya Nair,Hyderabad,Smartwatch,Wearables,2,5000.0,5,Credit Card,Returned,9500.0
+ORD000411,2025-06-30,CUST000411,Rahul Sharma,Hyderabad,Keyboard,Accessories,2,1500.0,15,Cash,Returned,2550.0
+ORD000986,2025-01-19,CUST000986,Rahul Sharma,Pune,Monitor,Electronics,5,12000.0,20,Net Banking,Returned,48000.0
+ORD000548,2025-11-14,CUST000548,Vikram Singh,Hyderabad,Printer,Electronics,4,8000.0,30,Credit Card,Delivered,22400.0
+ORD000879,2025-04-11,CUST000879,Amit Kumar,Hyderabad,Keyboard,Accessories,2,1500.0,5,UPI,Delivered,2850.0
+ORD000359,2025-07-11,CUST000359,Sanjay Das,Mumbai,Smartwatch,Wearables,2,5000.0,30,Credit Card,Returned,7000.0
+ORD000496,2025-09-08,CUST000496,Amit Kumar,Coimbatore,Keyboard,Accessories,2,1500.0,20,Debit Card,Delivered,2400.0
+ORD000193,2025-01-25,CUST000193,Neha Kapoor,Coimbatore,Smartwatch,Wearables,3,5000.0,15,net banking,Cancelled,12750.0
+ORD000508,2025-03-11,CUST000508,Sanjay Das,Chennai,Laptop,Electronics,3,55000.0,15,Credit Card,Returned,140250.0
+ORD000375,2025-10-28,CUST000375,Priya Nair,Pune,Mouse,Accessories,1,700.0,15,UPI,Delivered,595.0
+ORD000549,2025-10-29,CUST000549,Amit Kumar,Mumbai,Monitor,Electronics,1,12000.0,15,Debit Card,Returned,10200.0
+ORD000189,2025-08-07,CUST000189,Sanjay Das,Hyderabad,Headphones,Accessories,2,2500.0,10,Credit Card,Delivered,4500.0
+ORD000379,2025-07-10,CUST000379,Neha Kapoor,Delhi,Mouse,Accessories,1,700.0,10,Cash,Delivered,630.0
+ORD000195,2025-06-17,CUST000195,Neha Kapoor,Bengaluru,Keyboard,Accessories,4,1500.0,5,Net Banking,Delivered,5700.0
+ORD000525,2025-09-30,CUST000525,Amit Kumar,Chennai,Printer,Electronics,4,8000.0,20,Cash,Returned,25600.0
+ORD000526,2025-09-20,CUST000526,Rahul Sharma,Mumbai,Laptop,Electronics,1,55000.0,15,Cash,Returned,46750.0
+ORD000999,2025-10-04,CUST000999,Amit Kumar,Bengaluru,Keyboard,Accessories,5,1500.0,15,Cash,Returned,6375.0
+ORD000897,2025-08-02,CUST000897,Neha Kapoor,Delhi,Smartphone,Electronics,2,30000.0,15,Debit Card,Cancelled,51000.0
+ORD000058,2025-10-31,CUST000058,Arjun Menon,Chennai,Printer,Electronics,1,8000.0,20,Debit Card,Delivered,6400.0
+ORD000806,2025-09-15,CUST000806,Neha Kapoor,Coimbatore,Smartphone,Electronics,4,30000.0,15,Debit Card,Returned,102000.0
+ORD000622,2025-07-08,CUST000622,Priya Nair,Mumbai,Keyboard,Accessories,1,1500.0,5,Net Banking,Returned,1425.0
+ORD000610,2025-07-06,CUST000610,Sneha Reddy,Kochi,Monitor,Electronics,1,12000.0,20,Credit Card,Returned,9600.0
+ORD000326,2025-07-08,CUST000326,Neha Kapoor,Kochi,Monitor,Electronics,4,12000.0,20,UPI,Delivered,38400.0
+ORD000013,2025-09-05,CUST000013,Sanjay Das,Chennai,Smartwatch,Wearables,5,5000.0,15,Cash,Cancelled,21250.0
+ORD000487,2025-09-18,CUST000487,Anjali Menon,Mumbai,Smartwatch,Wearables,3,5000.0,10,UPI,Returned,13500.0
+ORD000985,2025-12-07,CUST000985,Rahul Sharma,Mumbai,Mouse,Accessories,1,700.0,5,Cash,Returned,665.0
+ORD000821,2025-03-12,CUST000821,Meera Iyer,Coimbatore,Smartphone,Electronics,4,30000.0,15,UPI,Cancelled,102000.0
+ORD000404,2025-11-10,CUST000404,Arjun Menon,Pune,Laptop,Electronics,1,55000.0,10,UPI,Delivered,49500.0
+ORD000825,2025-01-02,CUST000825,Anjali Menon,Hyderabad,Smartphone,Electronics,2,30000.0,15,Net Banking,Cancelled,51000.0
+ORD000719,2025-03-06,CUST000719,Vikram Singh,Bengaluru,Laptop,Electronics,2,55000.0,15,Cash,Returned,93500.0
+ORD000855,2025-08-08,CUST000855,Sneha Reddy,Kochi,Monitor,Electronics,5,12000.0,20,Debit Card,Delivered,48000.0
+ORD000505,2025-01-27,CUST000505,Arjun Menon,Mumbai,Monitor,Electronics,1,12000.0,20,Cash,Delivered,9600.0
+ORD000484,2025-06-01,CUST000484,Rahul Sharma,Hyderabad,Mouse,Accessories,4,700.0,20,Debit Card,Cancelled,2240.0
+ORD000795,2025-02-21,CUST000795,Neha Kapoor,Chennai,Mouse,Accessories,5,700.0,20,DEBIT CARD,Delivered,2800.0
+ORD000175,2025-05-21,CUST000175,Sneha Reddy,Delhi,Keyboard,Accessories,1,1500.0,15,Credit Card,Delivered,1275.0
+ORD000624,2025-09-18,CUST000624,Arjun Menon,Hyderabad,Mouse,Accessories,5,700.0,5,Credit Card,Returned,3325.0
+ORD000947,2025-05-21,CUST000947,Sneha Reddy,Delhi,Smartphone,Electronics,5,30000.0,20,UPI,Returned,120000.0
+ORD000191,2025-11-26,CUST000191,Meera Iyer,Pune,Laptop,Electronics,5,55000.0,20,UPI,Cancelled,220000.0
+ORD000253,2025-05-10,CUST000253,Sanjay Das,Bengaluru,Monitor,Electronics,1,12000.0,15,Credit Card,Cancelled,10200.0
+ORD000519,2025-12-18,CUST000519,Amit Kumar,Delhi,Keyboard,Accessories,2,1500.0,15,Cash,Returned,2550.0
+ORD000895,2025-07-17,CUST000895,Amit Kumar,Pune,Headphones,Accessories,1,2500.0,30,Debit Card,Cancelled,1750.0
+ORD000141,2025-05-21,CUST000141,Amit Kumar,Mumbai,Headphones,Accessories,1,2500.0,15,Debit Card,Returned,2125.0
+ORD000924,2025-10-17,CUST000924,Rahul Sharma,Mumbai,Monitor,Electronics,5,12000.0,10,Cash,Delivered,54000.0
+ORD000677,2025-04-07,CUST000677,Sanjay Das,Chennai,Laptop,Electronics,4,55000.0,10,Net Banking,Cancelled,198000.0
+ORD000685,2025-11-27,CUST000685,Sanjay Das,Coimbatore,Smartwatch,Wearables,3,5000.0,5,UPI,Delivered,14250.0
+ORD000710,2025-07-19,CUST000710,Vikram Singh,Bengaluru,Laptop,Electronics,2,55000.0,15,Credit Card,Delivered,93500.0
+ORD000095,2025-07-28,CUST000095,Rahul Sharma,Hyderabad,Monitor,Electronics,4,12000.0,30,Credit Card,Returned,33600.0
+ORD000721,2025-01-06,CUST000721,Neha Kapoor,Hyderabad,Printer,Electronics,1,8000.0,15,Net Banking,Cancelled,6800.0
+ORD000842,2025-08-05,CUST000842,Amit Kumar,Kochi,Printer,Electronics,2,8000.0,15,Debit Card,Delivered,13600.0
+ORD000928,2025-10-02,CUST000928,Neha Kapoor,Kochi,Headphones,Accessories,4,2500.0,15,Credit Card,Returned,8500.0
+ORD000198,2025-05-03,CUST000198,Rahul Sharma,Hyderabad,Keyboard,Accessories,1,1500.0,5,NET BANKING,Cancelled,1425.0
+ORD000887,2025-11-07,CUST000887,Sneha Reddy,Chennai,Smartphone,Electronics,5,30000.0,5,cash,Cancelled,142500.0
+ORD000640,2025-12-18,CUST000640,Priya Nair,Mumbai,Smartwatch,Wearables,5,5000.0,15,NET BANKING,Delivered,21250.0
+ORD000565,2025-06-23,CUST000565,Sanjay Das,Coimbatore,Mouse,Accessories,1,700.0,15,Credit Card,Cancelled,595.0
+ORD000153,2025-05-01,CUST000153,Arjun Menon,Kochi,Smartwatch,Wearables,3,5000.0,30,UPI,Delivered,10500.0
+ORD000665,2025-08-02,CUST000665,Anjali Menon,Hyderabad,Smartphone,Electronics,5,30000.0,15,Cash,Delivered,127500.0
+ORD000346,2025-05-17,CUST000346,Meera Iyer,Hyderabad,Keyboard,Accessories,2,1500.0,5,Debit Card,Returned,2850.0
+ORD000409,2025-05-03,CUST000409,Vikram Singh,Coimbatore,Headphones,Accessories,1,2500.0,15,Net Banking,Returned,2125.0
+ORD000117,2025-12-18,CUST000117,Meera Iyer,Coimbatore,Headphones,Accessories,5,2500.0,10,Net Banking,Delivered,11250.0
+ORD000788,2025-02-20,CUST000788,Priya Nair,Bengaluru,Mouse,Accessories,5,700.0,15,UPI,Returned,2975.0
+ORD000579,2025-03-20,CUST000579,Unknown,Hyderabad,Headphones,Accessories,3,2500.0,15,Credit Card,Delivered,6375.0
+ORD000723,2025-10-23,CUST000723,Sanjay Das,Hyderabad,Printer,Electronics,3,8000.0,30,Credit Card,Delivered,16800.0
+ORD000827,2025-04-27,CUST000827,Sneha Reddy,Chennai,Smartphone,Electronics,1,30000.0,10,Credit Card,Cancelled,27000.0
+ORD000281,2025-03-13,CUST000281,Rahul Sharma,Mumbai,Laptop,Electronics,5,55000.0,15,UPI,Cancelled,233750.0
+ORD000790,2025-02-21,CUST000790,Sneha Reddy,Bengaluru,Mouse,Accessories,4,700.0,15,UPI,Cancelled,2380.0
+ORD000443,2025-01-21,CUST000443,Sanjay Das,Hyderabad,Laptop,Electronics,3,55000.0,30,Credit Card,Delivered,115500.0
+ORD000168,2025-02-25,CUST000168,Meera Iyer,Mumbai,Printer,Electronics,2,8000.0,20,Cash,Cancelled,12800.0
+ORD000451,2025-11-06,CUST000451,Neha Kapoor,Chennai,Mouse,Accessories,5,700.0,20,Cash,Cancelled,2800.0
+ORD000296,2025-04-03,CUST000296,Anjali Menon,Kochi,Smartphone,Electronics,3,30000.0,15,upi,Returned,76500.0
+ORD000031,2025-06-05,CUST000031,Vikram Singh,Hyderabad,Smartphone,Electronics,4,30000.0,5,Net Banking,Cancelled,114000.0
+ORD000340,2025-03-27,CUST000340,Arjun Menon,Pune,Laptop,Electronics,5,55000.0,30,Credit Card,Cancelled,192500.0
+ORD000620,2025-09-25,CUST000620,Anjali Menon,Kochi,Smartwatch,Wearables,1,5000.0,20,Debit Card,Cancelled,4000.0
+ORD000038,2025-05-03,CUST000038,Sanjay Das,Delhi,Headphones,Accessories,5,2500.0,20,CREDIT CARD,Cancelled,10000.0
+ORD000101,2025-10-29,CUST000101,Meera Iyer,Pune,Headphones,Accessories,1,2500.0,15,Debit Card,Returned,2125.0
+ORD000841,2025-07-26,CUST000841,Rahul Sharma,Chennai,Monitor,Electronics,2,12000.0,10,Net Banking,Delivered,21600.0
+ORD000246,2025-11-07,CUST000246,Amit Kumar,Kochi,Smartphone,Electronics,2,30000.0,20,Debit Card,Returned,48000.0
+ORD000081,2025-04-26,CUST000081,Amit Kumar,Coimbatore,Keyboard,Accessories,4,1500.0,5,Credit Card,Cancelled,5700.0
+ORD000894,2025-04-22,CUST000894,Sneha Reddy,Bengaluru,Printer,Electronics,4,8000.0,20,Net Banking,Delivered,25600.0
+ORD000085,2025-06-24,CUST000085,Vikram Singh,Chennai,Laptop,Electronics,5,55000.0,15,Debit Card,Delivered,233750.0
+ORD000743,2025-11-11,CUST000743,Priya Nair,Pune,Keyboard,Accessories,2,1500.0,15,UPI,Returned,2550.0
+ORD000705,2025-06-23,CUST000705,Meera Iyer,Delhi,Mouse,Accessories,2,700.0,30,Cash,Cancelled,980.0
+ORD000427,2025-05-21,CUST000427,Sanjay Das,Pune,Mouse,Accessories,4,700.0,30,UPI,Returned,1960.0
+ORD000836,2025-12-19,CUST000836,Amit Kumar,Mumbai,Monitor,Electronics,4,12000.0,15,Net Banking,Cancelled,40800.0
+ORD000243,2025-09-21,CUST000243,Neha Kapoor,Hyderabad,Smartwatch,Wearables,1,5000.0,15,Cash,Delivered,4250.0
+ORD000824,2025-03-04,CUST000824,Vikram Singh,Chennai,Smartwatch,Wearables,1,5000.0,20,Net Banking,Delivered,4000.0
+ORD000158,2025-08-26,CUST000158,Rahul Sharma,Kochi,Headphones,Accessories,1,2500.0,30,Debit Card,Cancelled,1750.0
+ORD000822,2025-07-17,CUST000822,Anjali Menon,Hyderabad,Monitor,Electronics,2,12000.0,20,net banking,Returned,19200.0
+ORD000701,2025-02-10,CUST000701,Priya Nair,Coimbatore,Monitor,Electronics,1,12000.0,10,Debit Card,Returned,10800.0
+ORD000444,2025-01-12,CUST000444,Meera Iyer,Pune,Laptop,Electronics,5,55000.0,15,Credit Card,Cancelled,233750.0
+ORD000948,2025-03-02,CUST000948,Neha Kapoor,Coimbatore,Smartwatch,Wearables,4,5000.0,15,UPI,Returned,17000.0
+ORD000634,2025-09-22,CUST000634,Sanjay Das,Pune,Monitor,Electronics,2,12000.0,10,Debit Card,Returned,21600.0
+ORD000036,2025-08-09,CUST000036,Vikram Singh,Pune,Smartwatch,Wearables,4,5000.0,30,Net Banking,Returned,14000.0
+ORD000572,2025-03-25,CUST000572,Vikram Singh,Pune,Smartwatch,Wearables,3,5000.0,5,Net Banking,Cancelled,14250.0
+ORD000442,2025-02-27,CUST000442,Meera Iyer,Mumbai,Mouse,Accessories,3,700.0,15,UPI,Returned,1785.0
+ORD000844,2025-10-31,CUST000844,Meera Iyer,Mumbai,Monitor,Electronics,4,12000.0,15,UPI,Returned,40800.0
+ORD000294,2025-11-22,CUST000294,Sanjay Das,Delhi,Monitor,Electronics,1,12000.0,30,Net Banking,Returned,8400.0
+ORD000563,2025-05-14,CUST000563,Sneha Reddy,Bengaluru,Smartwatch,Wearables,5,5000.0,15,Net Banking,Returned,21250.0
+ORD000783,2025-07-08,CUST000783,Sanjay Das,Bengaluru,Mouse,Accessories,2,700.0,20,Debit Card,Returned,1120.0
+ORD000650,2025-08-23,CUST000650,Rahul Sharma,Chennai,Printer,Electronics,4,8000.0,15,Credit Card,Returned,27200.0
+ORD000604,2025-03-01,CUST000604,Sanjay Das,Pune,Smartwatch,Wearables,2,5000.0,15,Cash,Cancelled,8500.0
+ORD000316,2025-06-06,CUST000316,Meera Iyer,Mumbai,Laptop,Electronics,1,55000.0,15,Net Banking,Delivered,46750.0
+ORD000100,2025-05-02,CUST000100,Sneha Reddy,Coimbatore,Smartphone,Electronics,2,30000.0,10,UPI,Cancelled,54000.0
+ORD000079,2025-03-13,CUST000079,Anjali Menon,Chennai,Monitor,Electronics,4,12000.0,20,Credit Card,Returned,38400.0
+ORD000133,2025-11-29,CUST000133,Neha Kapoor,Chennai,Mouse,Accessories,1,700.0,15,Cash,Delivered,595.0
+ORD000088,2025-07-23,CUST000088,Unknown,Kochi,Smartwatch,Wearables,3,5000.0,15,UPI,Delivered,12750.0
+ORD000370,2025-07-06,CUST000370,Priya Nair,Delhi,Mouse,Accessories,1,700.0,10,Net Banking,Delivered,630.0
+ORD000993,2025-04-16,CUST000993,Amit Kumar,Pune,Mouse,Accessories,1,700.0,5,Debit Card,Cancelled,665.0
+ORD000238,2025-09-20,CUST000238,Amit Kumar,Kochi,Laptop,Electronics,4,55000.0,15,UPI,Cancelled,187000.0
+ORD000768,2025-04-15,CUST000768,Meera Iyer,Pune,Monitor,Electronics,3,12000.0,15,Cash,Delivered,30600.0
+ORD000109,2025-03-24,CUST000109,Sneha Reddy,Mumbai,Printer,Electronics,1,8000.0,30,Credit Card,Cancelled,5600.0
+ORD000532,2025-11-10,CUST000532,Neha Kapoor,Mumbai,Mouse,Accessories,3,700.0,5,UPI,Cancelled,1995.0
+ORD000789,2025-06-15,CUST000789,Sneha Reddy,Pune,Printer,Electronics,3,8000.0,15,debit card,Cancelled,20400.0
+ORD000176,2025-12-28,CUST000176,Meera Iyer,Bengaluru,Smartphone,Electronics,1,30000.0,5,Net Banking,Delivered,28500.0
+ORD000446,2025-08-20,CUST000446,Priya Nair,Coimbatore,Keyboard,Accessories,1,1500.0,5,UPI,Cancelled,1425.0
+ORD000582,2025-09-30,CUST000582,Meera Iyer,Kochi,Printer,Electronics,2,8000.0,30,Debit Card,Delivered,11200.0
+ORD000883,2025-05-11,CUST000883,Rahul Sharma,Coimbatore,Printer,Electronics,1,8000.0,20,UPI,Returned,6400.0
+ORD000476,2025-03-28,CUST000476,Arjun Menon,Pune,Headphones,Accessories,5,2500.0,10,Debit Card,Returned,11250.0
+ORD000615,2025-07-31,CUST000615,Sanjay Das,Kochi,Mouse,Accessories,1,700.0,10,UPI,Delivered,630.0
+ORD000399,2025-01-26,CUST000399,Anjali Menon,Delhi,Keyboard,Accessories,4,1500.0,15,Cash,Returned,5100.0
+ORD000162,2025-05-23,CUST000162,Sanjay Das,Delhi,Laptop,Electronics,4,55000.0,20,Debit Card,Returned,176000.0
+ORD000419,2025-02-13,CUST000419,Meera Iyer,Bengaluru,Monitor,Electronics,4,12000.0,20,Cash,Returned,38400.0
+ORD000387,2025-05-08,CUST000387,Rahul Sharma,Bengaluru,Headphones,Accessories,2,2500.0,10,Debit Card,Returned,4500.0
+ORD000255,2025-02-22,CUST000255,Priya Nair,Kochi,Headphones,Accessories,3,2500.0,30,Cash,Cancelled,5250.0
+ORD000589,2025-11-09,CUST000589,Priya Nair,Kochi,Smartwatch,Wearables,5,5000.0,5,Cash,Delivered,23750.0
+ORD000664,2025-01-12,CUST000664,Anjali Menon,Mumbai,Laptop,Electronics,1,55000.0,5,UPI,Delivered,52250.0
+ORD000512,2025-10-20,CUST000512,Anjali Menon,Kochi,Mouse,Accessories,4,700.0,10,UPI,Cancelled,2520.0
+ORD000008,2025-08-10,CUST000008,Sanjay Das,Kochi,Monitor,Electronics,1,12000.0,15,Cash,Cancelled,10200.0
+ORD000142,2025-04-17,CUST000142,Priya Nair,Mumbai,Smartphone,Electronics,4,30000.0,20,Cash,Delivered,96000.0
+ORD000493,2025-03-17,CUST000493,Neha Kapoor,Pune,Printer,Electronics,5,8000.0,5,Debit Card,Cancelled,38000.0
+ORD000184,2025-06-09,CUST000184,Arjun Menon,Hyderabad,Keyboard,Accessories,5,1500.0,10,Net Banking,Cancelled,6750.0
+ORD000739,2025-07-07,CUST000739,Anjali Menon,Chennai,Keyboard,Accessories,1,1500.0,5,Net Banking,Returned,1425.0
+ORD000103,2025-10-25,CUST000103,Amit Kumar,Mumbai,Monitor,Electronics,2,12000.0,15,UPI,Cancelled,20400.0
+ORD000323,2025-01-11,CUST000323,Vikram Singh,Coimbatore,Laptop,Electronics,2,55000.0,20,Cash,Returned,88000.0
+ORD000903,2025-01-02,CUST000903,Neha Kapoor,Hyderabad,Mouse,Accessories,2,700.0,20,Cash,Cancelled,1120.0
+ORD000968,2025-04-03,CUST000968,Meera Iyer,Chennai,Printer,Electronics,5,8000.0,15,Net Banking,Delivered,34000.0
+ORD000057,2025-03-23,CUST000057,Sanjay Das,Bengaluru,Mouse,Accessories,5,700.0,20,Debit Card,Cancelled,2800.0
+ORD000673,2025-05-11,CUST000673,Amit Kumar,Coimbatore,Printer,Electronics,1,8000.0,15,Cash,Cancelled,6800.0
+ORD000034,2025-12-24,CUST000034,Priya Nair,Chennai,Keyboard,Accessories,5,1500.0,20,Net Banking,Cancelled,6000.0
+ORD000127,2025-04-28,CUST000127,Meera Iyer,Pune,Smartwatch,Wearables,5,5000.0,15,Cash,Returned,21250.0
+ORD000884,2025-12-05,CUST000884,Vikram Singh,Bengaluru,Laptop,Electronics,4,55000.0,10,Net Banking,Returned,198000.0
+ORD000849,2025-01-02,CUST000849,Sanjay Das,Coimbatore,Smartwatch,Wearables,2,5000.0,30,Cash,Returned,7000.0
+ORD000946,2025-03-24,CUST000946,Priya Nair,Kochi,Keyboard,Accessories,2,1500.0,10,Cash,Delivered,2700.0
+ORD000185,2025-03-09,CUST000185,Arjun Menon,Bengaluru,Smartwatch,Wearables,3,5000.0,15,UPI,Delivered,12750.0
+ORD000310,2025-04-27,CUST000310,Arjun Menon,Chennai,Smartwatch,Wearables,1,5000.0,5,Cash,Delivered,4750.0
+ORD000694,2025-08-23,CUST000694,Amit Kumar,Delhi,Smartwatch,Wearables,1,5000.0,5,Credit Card,Cancelled,4750.0
+ORD000877,2025-12-31,CUST000877,Vikram Singh,Pune,Smartwatch,Wearables,2,5000.0,15,Cash,Delivered,8500.0
+ORD000966,2025-09-12,CUST000966,Anjali Menon,Chennai,Printer,Electronics,3,8000.0,5,Credit Card,Delivered,22800.0
+ORD000263,2025-08-25,CUST000263,Priya Nair,Chennai,Keyboard,Accessories,4,1500.0,10,Cash,Returned,5400.0
+ORD000393,2025-03-30,CUST000393,Neha Kapoor,Coimbatore,Laptop,Electronics,2,55000.0,10,Net Banking,Returned,99000.0
+ORD000708,2025-09-13,CUST000708,Amit Kumar,Pune,Laptop,Electronics,5,55000.0,15,Debit Card,Returned,233750.0
+ORD000601,2025-12-31,CUST000601,Meera Iyer,Mumbai,Smartwatch,Wearables,1,5000.0,30,Cash,Returned,3500.0
+ORD000940,2025-04-16,CUST000940,Priya Nair,Chennai,Monitor,Electronics,4,12000.0,30,Credit Card,Returned,33600.0
+ORD000021,2025-05-22,CUST000021,Vikram Singh,Mumbai,Smartphone,Electronics,1,30000.0,15,credit card,Cancelled,25500.0
+ORD000221,2025-06-20,CUST000221,Meera Iyer,Bengaluru,Headphones,Accessories,4,2500.0,5,UPI,Cancelled,9500.0
+ORD000762,2025-05-20,CUST000762,Priya Nair,Chennai,Smartphone,Electronics,2,30000.0,5,Debit Card,Delivered,57000.0
+ORD000994,2025-02-11,CUST000994,Vikram Singh,Chennai,Laptop,Electronics,4,55000.0,30,Debit Card,Delivered,154000.0
+ORD000636,2025-10-29,CUST000636,Rahul Sharma,Coimbatore,Mouse,Accessories,5,700.0,30,Debit Card,Delivered,2450.0
+ORD000766,2025-09-20,CUST000766,Amit Kumar,Delhi,Laptop,Electronics,1,55000.0,15,UPI,Returned,46750.0
+ORD000303,2025-01-01,CUST000303,Sanjay Das,Kochi,Laptop,Electronics,4,55000.0,15,UPI,Returned,187000.0
+ORD000160,2025-12-28,CUST000160,Amit Kumar,Hyderabad,Headphones,Accessories,2,2500.0,15,Net Banking,Cancelled,4250.0
+ORD000048,2025-11-03,CUST000048,Anjali Menon,Mumbai,Laptop,Electronics,3,55000.0,5,Net Banking,Delivered,156750.0
+ORD000794,2025-10-13,CUST000794,Meera Iyer,Chennai,Headphones,Accessories,3,2500.0,15,Credit Card,Cancelled,6375.0
+ORD000727,2025-09-07,CUST000727,Priya Nair,Mumbai,Mouse,Accessories,5,700.0,10,Debit Card,Returned,3150.0
+ORD000279,2025-12-19,CUST000279,Sanjay Das,Pune,Monitor,Electronics,4,12000.0,5,Net Banking,Returned,45600.0
+ORD000167,2025-11-12,CUST000167,Sanjay Das,Delhi,Laptop,Electronics,1,55000.0,30,Credit Card,Cancelled,38500.0
+ORD000956,2025-09-13,CUST000956,Neha Kapoor,Hyderabad,Keyboard,Accessories,2,1500.0,15,Credit Card,Delivered,2550.0
+ORD000771,2025-01-01,CUST000771,Neha Kapoor,Bengaluru,Keyboard,Accessories,4,1500.0,10,Net Banking,Cancelled,5400.0
+ORD000931,2025-12-10,CUST000931,Sanjay Das,Pune,Keyboard,Accessories,3,1500.0,15,Net Banking,Cancelled,3825.0
+ORD000170,2025-01-28,CUST000170,Amit Kumar,Kochi,Smartwatch,Wearables,1,5000.0,20,Cash,Delivered,4000.0
+ORD000480,2025-07-16,CUST000480,Meera Iyer,Mumbai,Smartwatch,Wearables,2,5000.0,15,Credit Card,Cancelled,8500.0
+ORD000539,2025-07-10,CUST000539,Priya Nair,Pune,Headphones,Accessories,1,2500.0,15,Debit Card,Delivered,2125.0
+ORD000414,2025-10-22,CUST000414,Priya Nair,Bengaluru,Monitor,Electronics,1,12000.0,15,Debit Card,Returned,10200.0
+ORD000352,2025-04-30,CUST000352,Rahul Sharma,Bengaluru,Monitor,Electronics,2,12000.0,30,Cash,Delivered,16800.0
+ORD000148,2025-05-15,CUST000148,Meera Iyer,Pune,Keyboard,Accessories,2,1500.0,5,UPI,Cancelled,2850.0
+ORD000616,2025-05-20,CUST000616,Sanjay Das,Bengaluru,Keyboard,Accessories,4,1500.0,20,Net Banking,Cancelled,4800.0
+ORD000901,2025-03-30,CUST000901,Vikram Singh,Chennai,Smartphone,Electronics,3,30000.0,20,Net Banking,Returned,72000.0
+ORD000116,2025-05-23,CUST000116,Sneha Reddy,Chennai,Keyboard,Accessories,5,1500.0,5,Net Banking,Delivered,7125.0
+ORD000724,2025-04-13,CUST000724,Priya Nair,Pune,Smartwatch,Wearables,5,5000.0,30,UPI,Cancelled,17500.0
+ORD000025,2025-11-28,CUST000025,Neha Kapoor,Delhi,Laptop,Electronics,2,55000.0,30,Cash,Returned,77000.0
+ORD000652,2025-10-11,CUST000652,Vikram Singh,Pune,Headphones,Accessories,2,2500.0,30,Net Banking,Delivered,3500.0
+ORD000873,2025-01-28,CUST000873,Neha Kapoor,Pune,Laptop,Electronics,4,55000.0,30,UPI,Returned,154000.0
+ORD000066,2025-06-02,CUST000066,Priya Nair,Hyderabad,Printer,Electronics,3,8000.0,15,Debit Card,Cancelled,20400.0
+ORD000918,2025-06-17,CUST000918,Arjun Menon,Bengaluru,Laptop,Electronics,4,55000.0,5,Debit Card,Cancelled,209000.0
+ORD000077,2025-12-26,CUST000077,Priya Nair,Kochi,Smartwatch,Wearables,5,5000.0,5,Credit Card,Cancelled,23750.0
+ORD000574,2025-02-11,CUST000574,Amit Kumar,Bengaluru,Smartwatch,Wearables,2,5000.0,15,Net Banking,Delivered,8500.0
+ORD000277,2025-09-08,CUST000277,Sneha Reddy,Kochi,Mouse,Accessories,2,700.0,5,Net Banking,Delivered,1330.0
+ORD000384,2025-11-22,CUST000384,Sneha Reddy,Coimbatore,Headphones,Accessories,4,2500.0,20,Cash,Cancelled,8000.0
+ORD000273,2025-03-14,CUST000273,Anjali Menon,Delhi,Mouse,Accessories,5,700.0,15,Credit Card,Delivered,2975.0
+ORD000639,2025-08-14,CUST000639,Rahul Sharma,Chennai,Headphones,Accessories,2,2500.0,15,Credit Card,Returned,4250.0
+ORD000765,2025-06-13,CUST000765,Sneha Reddy,Pune,Laptop,Electronics,4,55000.0,20,Debit Card,Cancelled,176000.0
+ORD000312,2025-06-18,CUST000312,Anjali Menon,Mumbai,Laptop,Electronics,3,55000.0,15,Credit Card,Delivered,140250.0
+ORD000511,2025-01-28,CUST000511,Priya Nair,Chennai,Mouse,Accessories,1,700.0,15,Credit Card,Cancelled,595.0
+ORD000029,2025-03-28,CUST000029,Meera Iyer,Coimbatore,Smartwatch,Wearables,3,5000.0,20,Net Banking,Delivered,12000.0
+ORD000203,2025-11-19,CUST000203,Anjali Menon,Mumbai,Keyboard,Accessories,5,1500.0,15,UPI,Cancelled,6375.0
+ORD000165,2025-02-22,CUST000165,Sneha Reddy,Mumbai,Laptop,Electronics,4,55000.0,20,Debit Card,Cancelled,176000.0
+ORD000070,2025-06-05,CUST000070,Amit Kumar,Chennai,Monitor,Electronics,2,12000.0,10,Credit Card,Delivered,21600.0
+ORD000909,2025-11-21,CUST000909,Anjali Menon,Hyderabad,Keyboard,Accessories,2,1500.0,30,Credit Card,Returned,2100.0
+ORD000969,2025-10-16,CUST000969,Vikram Singh,Delhi,Printer,Electronics,3,8000.0,5,Debit Card,Delivered,22800.0
+ORD000098,2025-04-11,CUST000098,Meera Iyer,Pune,Laptop,Electronics,3,55000.0,5,Debit Card,Delivered,156750.0
+ORD000426,2025-08-09,CUST000426,Amit Kumar,Mumbai,Laptop,Electronics,2,55000.0,15,Net Banking,Cancelled,93500.0
+ORD000712,2025-10-15,CUST000712,Amit Kumar,Delhi,Laptop,Electronics,4,55000.0,30,Debit Card,Delivered,154000.0
+ORD000131,2025-12-13,CUST000131,Vikram Singh,Pune,Printer,Electronics,2,8000.0,15,Net Banking,Cancelled,13600.0
+ORD000777,2025-07-11,CUST000777,Anjali Menon,Delhi,Smartwatch,Wearables,1,5000.0,20,Debit Card,Returned,4000.0
+ORD000126,2025-03-08,CUST000126,Sneha Reddy,Mumbai,Mouse,Accessories,1,700.0,30,Debit Card,Delivered,490.0
+ORD000515,2025-10-04,CUST000515,Unknown,Hyderabad,Mouse,Accessories,1,700.0,15,Debit Card,Delivered,595.0
+ORD000368,2025-09-20,CUST000368,Neha Kapoor,Coimbatore,Mouse,Accessories,2,700.0,15,Debit Card,Cancelled,1190.0
+ORD000097,2025-01-24,CUST000097,Rahul Sharma,Pune,Smartwatch,Wearables,1,5000.0,5,UPI,Returned,4750.0
+ORD000700,2025-03-16,CUST000700,Meera Iyer,Kochi,Keyboard,Accessories,4,1500.0,20,Credit Card,Cancelled,4800.0
+ORD000274,2025-08-27,CUST000274,Rahul Sharma,Hyderabad,Mouse,Accessories,2,700.0,10,Debit Card,Returned,1260.0
+ORD000874,2025-11-22,CUST000874,Rahul Sharma,Delhi,Keyboard,Accessories,1,1500.0,15,Cash,Returned,1275.0
+ORD000225,2025-10-28,CUST000225,Sanjay Das,Kochi,Headphones,Accessories,3,2500.0,5,Net Banking,Delivered,7125.0
+ORD000595,2025-01-08,CUST000595,Sanjay Das,Delhi,Laptop,Electronics,3,55000.0,30,Net Banking,Returned,115500.0
+ORD000304,2025-02-20,CUST000304,Arjun Menon,Pune,Printer,Electronics,1,8000.0,10,Credit Card,Delivered,7200.0
+ORD000530,2025-05-08,CUST000530,Vikram Singh,Bengaluru,Printer,Electronics,1,8000.0,10,Cash,Delivered,7200.0
+ORD000432,2025-07-30,CUST000432,Amit Kumar,Chennai,Smartwatch,Wearables,1,5000.0,15,UPI,Cancelled,4250.0
+ORD000613,2025-04-27,CUST000613,Amit Kumar,Bengaluru,Laptop,Electronics,1,55000.0,30,Credit Card,Returned,38500.0
+ORD000152,2025-07-03,CUST000152,Sneha Reddy,Delhi,Printer,Electronics,4,8000.0,20,Debit Card,Delivered,25600.0
+ORD000983,2025-03-26,CUST000983,Meera Iyer,Kochi,Laptop,Electronics,1,55000.0,15,Credit Card,Cancelled,46750.0
+ORD000813,2025-09-08,CUST000813,Priya Nair,Mumbai,Smartphone,Electronics,1,30000.0,15,UPI,Returned,25500.0
+ORD000230,2025-12-11,CUST000230,Sneha Reddy,Pune,Mouse,Accessories,3,700.0,20,Cash,Delivered,1680.0
+ORD000753,2025-12-31,CUST000753,Unknown,Chennai,Printer,Electronics,1,8000.0,20,Credit Card,Returned,6400.0
+ORD000403,2025-10-01,CUST000403,Meera Iyer,Chennai,Monitor,Electronics,2,12000.0,10,Cash,Delivered,21600.0
+ORD000111,2025-04-08,CUST000111,Arjun Menon,Mumbai,Mouse,Accessories,4,700.0,15,Cash,Cancelled,2380.0
+ORD000593,2025-01-20,CUST000593,Priya Nair,Delhi,Laptop,Electronics,4,55000.0,30,Debit Card,Returned,154000.0
+ORD000022,2025-11-27,CUST000022,Sanjay Das,Hyderabad,Laptop,Electronics,1,55000.0,20,Credit Card,Cancelled,44000.0
+ORD000171,2025-09-04,CUST000171,Rahul Sharma,Chennai,Mouse,Accessories,4,700.0,15,UPI,Returned,2380.0
+ORD000917,2025-01-14,CUST000917,Rahul Sharma,Coimbatore,Smartwatch,Wearables,4,5000.0,20,Cash,Cancelled,16000.0
+ORD000955,2025-10-20,CUST000955,Meera Iyer,Chennai,Smartphone,Electronics,1,30000.0,10,UPI,Delivered,27000.0
+ORD000867,2025-12-25,CUST000867,Neha Kapoor,Chennai,Headphones,Accessories,5,2500.0,15,Cash,Cancelled,10625.0
+ORD000852,2025-01-23,CUST000852,Rahul Sharma,Hyderabad,Mouse,Accessories,5,700.0,15,UPI,Delivered,2975.0
+ORD000073,2025-12-24,CUST000073,Arjun Menon,Pune,Smartwatch,Wearables,5,5000.0,20,Debit Card,Cancelled,20000.0
+ORD000686,2025-08-05,CUST000686,Meera Iyer,Mumbai,Smartwatch,Wearables,4,5000.0,15,Cash,Cancelled,17000.0
+ORD000450,2025-03-16,CUST000450,Unknown,Hyderabad,Smartphone,Electronics,1,30000.0,20,Cash,Delivered,24000.0
+ORD000216,2025-06-06,CUST000216,Anjali Menon,Bengaluru,Mouse,Accessories,1,700.0,15,Cash,Delivered,595.0
+ORD000773,2025-10-28,CUST000773,Arjun Menon,Chennai,Smartwatch,Wearables,2,5000.0,30,Debit Card,Returned,7000.0
+ORD000990,2025-02-05,CUST000990,Meera Iyer,Hyderabad,Smartwatch,Wearables,1,5000.0,5,Debit Card,Returned,4750.0
+ORD000670,2025-02-20,CUST000670,Meera Iyer,Delhi,Monitor,Electronics,3,12000.0,10,Net Banking,Delivered,32400.0
+ORD000106,2025-11-03,CUST000106,Sneha Reddy,Kochi,Monitor,Electronics,4,12000.0,30,Debit Card,Returned,33600.0
+ORD000011,2025-02-19,CUST000011,Amit Kumar,Coimbatore,Headphones,Accessories,1,2500.0,10,Net Banking,Returned,2250.0
+ORD000846,2025-11-08,CUST000846,Arjun Menon,Pune,Monitor,Electronics,5,12000.0,30,Credit Card,Cancelled,42000.0
+ORD000556,2025-01-05,CUST000556,Neha Kapoor,Chennai,Laptop,Electronics,4,55000.0,15,Cash,Returned,187000.0
+ORD000092,2025-07-31,CUST000092,Priya Nair,Kochi,Smartphone,Electronics,5,30000.0,20,Credit Card,Delivered,120000.0
+ORD000655,2025-01-08,CUST000655,Anjali Menon,Chennai,Smartphone,Electronics,5,30000.0,15,UPI,Returned,127500.0
+ORD000229,2025-03-06,CUST000229,Priya Nair,Kochi,Smartphone,Electronics,4,30000.0,30,Debit Card,Delivered,84000.0
+ORD000490,2025-01-09,CUST000490,Vikram Singh,Hyderabad,Monitor,Electronics,1,12000.0,20,Debit Card,Returned,9600.0
+ORD000169,2025-06-12,CUST000169,Rahul Sharma,Hyderabad,Monitor,Electronics,5,12000.0,30,Debit Card,Delivered,42000.0
+ORD000260,2025-10-02,CUST000260,Amit Kumar,Mumbai,Laptop,Electronics,5,55000.0,15,Debit Card,Cancelled,233750.0
+ORD000115,2025-10-07,CUST000115,Vikram Singh,Pune,Headphones,Accessories,4,2500.0,20,Cash,Cancelled,8000.0
+ORD000543,2025-10-11,CUST000543,Neha Kapoor,Bengaluru,Mouse,Accessories,1,700.0,30,Cash,Delivered,490.0
+ORD000605,2025-04-03,CUST000605,Sanjay Das,Kochi,Monitor,Electronics,1,12000.0,5,UPI,Cancelled,11400.0
+ORD000342,2025-05-01,CUST000342,Arjun Menon,Delhi,Smartwatch,Wearables,1,5000.0,15,UPI,Returned,4250.0
+ORD000848,2025-01-11,CUST000848,Meera Iyer,Bengaluru,Printer,Electronics,1,8000.0,30,UPI,Delivered,5600.0
+ORD000318,2025-01-16,CUST000318,Arjun Menon,Coimbatore,Laptop,Electronics,5,55000.0,20,UPI,Cancelled,220000.0
+ORD000509,2025-04-07,CUST000509,Anjali Menon,Pune,Monitor,Electronics,1,12000.0,15,Credit Card,Delivered,10200.0
+ORD000030,2025-04-30,CUST000030,Anjali Menon,Hyderabad,Smartphone,Electronics,5,30000.0,15,Debit Card,Returned,127500.0
+ORD000390,2025-10-20,CUST000390,Sanjay Das,Mumbai,Smartphone,Electronics,1,30000.0,15,UPI,Delivered,25500.0
+ORD000619,2025-03-09,CUST000619,Neha Kapoor,Delhi,Smartphone,Electronics,5,30000.0,15,Credit Card,Cancelled,127500.0
+ORD000611,2025-12-28,CUST000611,Neha Kapoor,Kochi,Printer,Electronics,1,8000.0,20,Net Banking,Delivered,6400.0
+ORD000982,2025-02-13,CUST000982,Anjali Menon,Coimbatore,Monitor,Electronics,4,12000.0,30,UPI,Returned,33600.0
+ORD000933,2025-09-23,CUST000933,Anjali Menon,Bengaluru,Printer,Electronics,5,8000.0,15,Debit Card,Cancelled,34000.0
+ORD000200,2025-11-24,CUST000200,Unknown,Hyderabad,Monitor,Electronics,1,12000.0,15,UPI,Returned,10200.0
+ORD000779,2025-12-09,CUST000779,Anjali Menon,Pune,Smartphone,Electronics,3,30000.0,30,Cash,Cancelled,63000.0
+ORD000498,2025-08-23,CUST000498,Vikram Singh,Chennai,Smartwatch,Wearables,1,5000.0,20,Debit Card,Delivered,4000.0
+ORD000693,2025-04-30,CUST000693,Unknown,Hyderabad,Headphones,Accessories,4,2500.0,15,Debit Card,Cancelled,8500.0
+ORD000936,2025-03-02,CUST000936,Amit Kumar,Kochi,Printer,Electronics,1,8000.0,15,debit card,Cancelled,6800.0
+ORD000397,2025-06-02,CUST000397,Meera Iyer,Delhi,Smartphone,Electronics,4,30000.0,30,Cash,Delivered,84000.0
+ORD000134,2025-10-31,CUST000134,Sneha Reddy,Chennai,Smartwatch,Wearables,5,5000.0,30,Credit Card,Delivered,17500.0
+ORD000899,2025-10-31,CUST000899,Priya Nair,Kochi,Smartphone,Electronics,5,30000.0,15,Credit Card,Returned,127500.0
+ORD000283,2025-04-28,CUST000283,Meera Iyer,Kochi,Headphones,Accessories,2,2500.0,5,Cash,Returned,4750.0
+ORD000232,2025-02-18,CUST000232,Neha Kapoor,Delhi,Monitor,Electronics,3,12000.0,20,Net Banking,Returned,28800.0
+ORD000458,2025-03-13,CUST000458,Rahul Sharma,Bengaluru,Smartphone,Electronics,4,30000.0,30,Debit Card,Returned,84000.0
+ORD000463,2025-10-10,CUST000463,Meera Iyer,Coimbatore,Keyboard,Accessories,5,1500.0,30,CREDIT CARD,Cancelled,5250.0
+ORD000823,2025-05-28,CUST000823,Sanjay Das,Pune,Headphones,Accessories,4,2500.0,30,Net Banking,Cancelled,7000.0
+ORD000888,2025-01-17,CUST000888,Anjali Menon,Delhi,Printer,Electronics,1,8000.0,15,UPI,Delivered,6800.0
+ORD000679,2025-04-19,CUST000679,Arjun Menon,Coimbatore,Monitor,Electronics,2,12000.0,15,Cash,Returned,20400.0
+ORD000408,2025-10-29,CUST000408,Amit Kumar,Hyderabad,Smartphone,Electronics,5,30000.0,15,Credit Card,Returned,127500.0
+ORD000957,2025-06-10,CUST000957,Neha Kapoor,Pune,Keyboard,Accessories,5,1500.0,10,Net Banking,Delivered,6750.0
+ORD000996,2025-03-12,CUST000996,Anjali Menon,Delhi,Headphones,Accessories,4,2500.0,5,Net Banking,Cancelled,9500.0
+ORD000239,2025-05-09,CUST000239,Sneha Reddy,Kochi,Headphones,Accessories,4,2500.0,10,UPI,Cancelled,9000.0
+ORD000297,2025-07-11,CUST000297,Priya Nair,Bengaluru,Smartphone,Electronics,5,30000.0,20,Cash,Returned,120000.0
+ORD000566,2025-07-21,CUST000566,Neha Kapoor,Kochi,Headphones,Accessories,4,2500.0,5,Debit Card,Returned,9500.0
+ORD000862,2025-05-11,CUST000862,Arjun Menon,Coimbatore,Printer,Electronics,2,8000.0,5,Cash,Cancelled,15200.0
+ORD000570,2025-10-26,CUST000570,Neha Kapoor,Delhi,Printer,Electronics,5,8000.0,10,Net Banking,Cancelled,36000.0
+ORD000758,2025-01-14,CUST000758,Vikram Singh,Coimbatore,Printer,Electronics,2,8000.0,15,Cash,Returned,13600.0
+ORD000467,2025-01-30,CUST000467,Arjun Menon,Delhi,Laptop,Electronics,4,55000.0,15,Debit Card,Returned,187000.0
+ORD000632,2025-10-14,CUST000632,Sneha Reddy,Delhi,Headphones,Accessories,5,2500.0,10,Credit Card,Cancelled,11250.0
+ORD000577,2025-04-09,CUST000577,Vikram Singh,Bengaluru,Smartphone,Electronics,2,30000.0,20,Cash,Cancelled,48000.0
+ORD000697,2025-03-12,CUST000697,Arjun Menon,Kochi,Mouse,Accessories,2,700.0,15,Net Banking,Delivered,1190.0
+ORD000643,2025-01-16,CUST000643,Unknown,Mumbai,Keyboard,Accessories,3,1500.0,20,UPI,Delivered,3600.0
+ORD000801,2025-08-30,CUST000801,Priya Nair,Hyderabad,Headphones,Accessories,2,2500.0,30,Cash,Returned,3500.0
+ORD000108,2025-05-06,CUST000108,Arjun Menon,Coimbatore,Smartphone,Electronics,4,30000.0,20,UPI,Delivered,96000.0
+ORD000378,2025-08-01,CUST000378,Amit Kumar,Coimbatore,Keyboard,Accessories,3,1500.0,5,Cash,Returned,4275.0
+ORD000071,2025-01-15,CUST000071,Neha Kapoor,Delhi,Smartwatch,Wearables,3,5000.0,5,Debit Card,Returned,14250.0
+ORD000870,2025-09-30,CUST000870,Rahul Sharma,Coimbatore,Headphones,Accessories,4,2500.0,5,Net Banking,Returned,9500.0
+ORD000599,2025-07-30,CUST000599,Amit Kumar,Mumbai,Smartphone,Electronics,3,30000.0,10,Credit Card,Returned,81000.0
+ORD000391,2025-07-17,CUST000391,Amit Kumar,Chennai,Smartwatch,Wearables,4,5000.0,15,Debit Card,Cancelled,17000.0
+ORD000425,2025-06-08,CUST000425,Meera Iyer,Chennai,Keyboard,Accessories,3,1500.0,5,Credit Card,Delivered,4275.0
+ORD000736,2025-08-08,CUST000736,Sneha Reddy,Kochi,Mouse,Accessories,4,700.0,5,UPI,Cancelled,2660.0
+ORD000334,2025-03-19,CUST000334,Arjun Menon,Pune,Keyboard,Accessories,5,1500.0,10,Cash,Returned,6750.0
+ORD000436,2025-02-26,CUST000436,Priya Nair,Chennai,Mouse,Accessories,4,700.0,15,Net Banking,Returned,2380.0
+ORD000830,2025-11-22,CUST000830,Sanjay Das,Delhi,Smartphone,Electronics,3,30000.0,15,Net Banking,Returned,76500.0
+ORD000668,2025-12-17,CUST000668,Sneha Reddy,Coimbatore,Keyboard,Accessories,3,1500.0,15,Debit Card,Cancelled,3825.0
+ORD000845,2025-07-26,CUST000845,Sanjay Das,Bengaluru,Headphones,Accessories,2,2500.0,15,UPI,Delivered,4250.0
+ORD000119,2025-08-20,CUST000119,Amit Kumar,Hyderabad,Headphones,Accessories,2,2500.0,30,Debit Card,Cancelled,3500.0
+ORD000155,2025-10-05,CUST000155,Rahul Sharma,Hyderabad,Headphones,Accessories,5,2500.0,20,Credit Card,Delivered,10000.0
+ORD000735,2025-11-11,CUST000735,Sneha Reddy,Mumbai,Laptop,Electronics,5,55000.0,20,UPI,Cancelled,220000.0
+ORD000809,2025-01-27,CUST000809,Amit Kumar,Pune,Headphones,Accessories,4,2500.0,30,Net Banking,Cancelled,7000.0
+ORD000774,2025-02-12,CUST000774,Sneha Reddy,Mumbai,Monitor,Electronics,3,12000.0,15,Net Banking,Delivered,30600.0
+ORD000137,2025-08-20,CUST000137,Arjun Menon,Chennai,Printer,Electronics,5,8000.0,10,UPI,Cancelled,36000.0
+ORD000810,2025-06-27,CUST000810,Unknown,Mumbai,Mouse,Accessories,1,700.0,20,Net Banking,Delivered,560.0
+ORD000051,2025-08-25,CUST000051,Meera Iyer,Delhi,Smartwatch,Wearables,1,5000.0,10,Net Banking,Cancelled,4500.0
+ORD000242,2025-01-04,CUST000242,Priya Nair,Coimbatore,Smartwatch,Wearables,2,5000.0,15,UPI,Returned,8500.0
+ORD000703,2025-11-15,CUST000703,Amit Kumar,Mumbai,Printer,Electronics,2,8000.0,10,Credit Card,Returned,14400.0
+ORD000099,2025-06-29,CUST000099,Sneha Reddy,Pune,Printer,Electronics,5,8000.0,30,Credit Card,Cancelled,28000.0
+ORD000614,2025-06-13,CUST000614,Rahul Sharma,Mumbai,Keyboard,Accessories,2,1500.0,30,Credit Card,Cancelled,2100.0
+ORD000452,2025-03-07,CUST000452,Sanjay Das,Mumbai,Smartphone,Electronics,3,30000.0,5,Cash,Returned,85500.0
+ORD000674,2025-05-28,CUST000674,Amit Kumar,Pune,Keyboard,Accessories,1,1500.0,15,Cash,Cancelled,1275.0
+ORD000084,2025-04-15,CUST000084,Rahul Sharma,Bengaluru,Headphones,Accessories,2,2500.0,15,Debit Card,Cancelled,4250.0
+ORD000812,2025-12-03,CUST000812,Priya Nair,Mumbai,Monitor,Electronics,1,12000.0,10,UPI,Cancelled,10800.0
+ORD000406,2025-08-25,CUST000406,Amit Kumar,Bengaluru,Laptop,Electronics,5,55000.0,20,Net Banking,Cancelled,220000.0
+ORD000062,2025-12-11,CUST000062,Amit Kumar,Bengaluru,Headphones,Accessories,2,2500.0,5,Cash,Delivered,4750.0
+ORD000147,2025-11-22,CUST000147,Arjun Menon,Mumbai,Laptop,Electronics,1,55000.0,5,DEBIT CARD,Returned,52250.0
+ORD000401,2025-03-03,CUST000401,Priya Nair,Pune,Headphones,Accessories,3,2500.0,10,UPI,Returned,6750.0
+ORD000163,2025-06-02,CUST000163,Sanjay Das,Mumbai,Smartphone,Electronics,4,30000.0,20,UPI,Cancelled,96000.0
+ORD000060,2025-12-12,CUST000060,Sanjay Das,Chennai,Smartphone,Electronics,4,30000.0,10,Debit Card,Returned,108000.0
+ORD000307,2025-08-14,CUST000307,Neha Kapoor,Delhi,Smartphone,Electronics,5,30000.0,20,Credit Card,Cancelled,120000.0
+ORD000004,2025-04-10,CUST000004,Priya Nair,Pune,Laptop,Electronics,2,55000.0,5,UPI,Delivered,104500.0
+ORD000961,2025-03-04,CUST000961,Amit Kumar,Mumbai,Mouse,Accessories,3,700.0,10,Debit Card,Cancelled,1890.0
+ORD000698,2025-09-29,CUST000698,Anjali Menon,Bengaluru,Printer,Electronics,3,8000.0,30,UPI,Cancelled,16800.0
+ORD000964,2025-10-16,CUST000964,Anjali Menon,Hyderabad,Monitor,Electronics,2,12000.0,10,Net Banking,Delivered,21600.0
+ORD000120,2025-06-21,CUST000120,Meera Iyer,Chennai,Monitor,Electronics,3,12000.0,15,Net Banking,Cancelled,30600.0
+ORD000211,2025-07-28,CUST000211,Anjali Menon,Hyderabad,Keyboard,Accessories,4,1500.0,15,Net Banking,Delivered,5100.0
+ORD000510,2025-09-12,CUST000510,Rahul Sharma,Hyderabad,Smartphone,Electronics,1,30000.0,5,UPI,Cancelled,28500.0
+ORD000939,2025-11-14,CUST000939,Arjun Menon,Mumbai,Headphones,Accessories,1,2500.0,10,Cash,Cancelled,2250.0
+ORD000738,2025-10-22,CUST000738,Anjali Menon,Bengaluru,Printer,Electronics,5,8000.0,15,NET BANKING,Returned,34000.0
+ORD000267,2025-01-15,CUST000267,Unknown,Mumbai,Smartphone,Electronics,1,30000.0,30,Cash,Delivered,21000.0
+ORD000571,2025-12-01,CUST000571,Vikram Singh,Bengaluru,Monitor,Electronics,4,12000.0,15,UPI,Returned,40800.0
+ORD000832,2025-04-13,CUST000832,Unknown,Delhi,Smartwatch,Wearables,1,5000.0,5,Credit Card,Returned,4750.0
+ORD000130,2025-05-27,CUST000130,Amit Kumar,Delhi,Printer,Electronics,4,8000.0,10,Cash,Cancelled,28800.0
+ORD000523,2025-06-20,CUST000523,Amit Kumar,Chennai,Headphones,Accessories,4,2500.0,5,Cash,Delivered,9500.0
+ORD000082,2025-11-20,CUST000082,Neha Kapoor,Coimbatore,Monitor,Electronics,2,12000.0,15,Debit Card,Cancelled,20400.0
+ORD000808,2025-12-27,CUST000808,Sanjay Das,Bengaluru,Mouse,Accessories,4,700.0,10,Cash,Returned,2520.0
+ORD000603,2025-09-19,CUST000603,Rahul Sharma,Kochi,Smartwatch,Wearables,3,5000.0,15,Credit Card,Delivered,12750.0
+ORD000470,2025-11-12,CUST000470,Arjun Menon,Chennai,Mouse,Accessories,3,700.0,5,Credit Card,Returned,1995.0
+ORD000179,2025-12-21,CUST000179,Meera Iyer,Pune,Printer,Electronics,4,8000.0,10,Credit Card,Returned,28800.0
+ORD000950,2025-01-13,CUST000950,Anjali Menon,Bengaluru,Keyboard,Accessories,1,1500.0,30,Debit Card,Returned,1050.0
+ORD000580,2025-02-22,CUST000580,Amit Kumar,Hyderabad,Monitor,Electronics,4,12000.0,15,Credit Card,Delivered,40800.0
+ORD000683,2025-10-19,CUST000683,Rahul Sharma,Mumbai,Headphones,Accessories,4,2500.0,15,credit card,Cancelled,8500.0
+ORD000112,2025-11-14,CUST000112,Amit Kumar,Hyderabad,Mouse,Accessories,3,700.0,30,Net Banking,Returned,1470.0
+ORD000963,2025-11-15,CUST000963,Rahul Sharma,Mumbai,Keyboard,Accessories,2,1500.0,15,UPI,Returned,2550.0
+ORD000834,2025-07-26,CUST000834,Arjun Menon,Chennai,Mouse,Accessories,5,700.0,5,Net Banking,Cancelled,3325.0
+ORD000015,2025-05-28,CUST000015,Arjun Menon,Mumbai,Monitor,Electronics,5,12000.0,10,Net Banking,Returned,54000.0
+ORD000215,2025-10-12,CUST000215,Amit Kumar,Hyderabad,Monitor,Electronics,2,12000.0,20,Net Banking,Delivered,19200.0
+ORD000630,2025-11-26,CUST000630,Rahul Sharma,Delhi,Laptop,Electronics,1,55000.0,10,UPI,Delivered,49500.0
+ORD000328,2025-12-29,CUST000328,Neha Kapoor,Chennai,Monitor,Electronics,4,12000.0,15,Cash,Returned,40800.0
+ORD000161,2025-09-27,CUST000161,Priya Nair,Pune,Mouse,Accessories,5,700.0,5,Cash,Delivered,3325.0
+ORD000477,2025-02-16,CUST000477,Neha Kapoor,Chennai,Keyboard,Accessories,1,1500.0,5,Cash,Delivered,1425.0
+ORD000009,2025-07-12,CUST000009,Amit Kumar,Pune,Keyboard,Accessories,2,1500.0,20,Debit Card,Delivered,2400.0
+ORD000459,2025-07-28,CUST000459,Priya Nair,Coimbatore,Mouse,Accessories,3,700.0,5,Cash,Returned,1995.0
+ORD000027,2025-09-14,CUST000027,Sneha Reddy,Bengaluru,Monitor,Electronics,3,12000.0,10,Debit Card,Returned,32400.0
+ORD000660,2025-05-08,CUST000660,Neha Kapoor,Chennai,Keyboard,Accessories,2,1500.0,30,Net Banking,Returned,2100.0
+ORD000725,2025-01-22,CUST000725,Vikram Singh,Mumbai,Smartwatch,Wearables,1,5000.0,5,Credit Card,Delivered,4750.0
+ORD000935,2025-06-10,CUST000935,Sneha Reddy,Bengaluru,Monitor,Electronics,2,12000.0,10,Credit Card,Returned,21600.0
+ORD000612,2025-05-17,CUST000612,Amit Kumar,Delhi,Keyboard,Accessories,2,1500.0,5,UPI,Delivered,2850.0
+ORD000951,2025-04-22,CUST000951,Amit Kumar,Coimbatore,Keyboard,Accessories,1,1500.0,15,Cash,Returned,1275.0
+ORD000911,2025-09-21,CUST000911,Sneha Reddy,Coimbatore,Headphones,Accessories,2,2500.0,15,Net Banking,Cancelled,4250.0
+ORD000026,2025-07-25,CUST000026,Neha Kapoor,Mumbai,Headphones,Accessories,3,2500.0,5,Debit Card,Returned,7125.0
+ORD000689,2025-01-17,CUST000689,Sanjay Das,Delhi,Mouse,Accessories,4,700.0,15,UPI,Delivered,2380.0
+ORD000793,2025-03-04,CUST000793,Priya Nair,Kochi,Headphones,Accessories,3,2500.0,10,Debit Card,Returned,6750.0
+ORD000050,2025-04-26,CUST000050,Vikram Singh,Delhi,Smartphone,Electronics,5,30000.0,5,Net Banking,Delivered,142500.0
+ORD000440,2025-10-04,CUST000440,Vikram Singh,Kochi,Keyboard,Accessories,2,1500.0,30,Cash,Returned,2100.0
+ORD000039,2025-08-13,CUST000039,Sneha Reddy,Hyderabad,Keyboard,Accessories,5,1500.0,30,Cash,Cancelled,5250.0
+ORD000976,2025-09-19,CUST000976,Neha Kapoor,Coimbatore,Headphones,Accessories,2,2500.0,10,Credit Card,Returned,4500.0
+ORD000587,2025-04-15,CUST000587,Unknown,Kochi,Smartphone,Electronics,5,30000.0,5,Net Banking,Returned,142500.0
+ORD000937,2025-09-04,CUST000937,Neha Kapoor,Delhi,Mouse,Accessories,4,700.0,10,Cash,Delivered,2520.0
+ORD000839,2025-03-03,CUST000839,Rahul Sharma,Hyderabad,Headphones,Accessories,5,2500.0,5,Credit Card,Cancelled,11875.0
+ORD000344,2025-10-24,CUST000344,Anjali Menon,Hyderabad,Laptop,Electronics,1,55000.0,20,Debit Card,Delivered,44000.0
+ORD000760,2025-01-04,CUST000760,Neha Kapoor,Coimbatore,Monitor,Electronics,4,12000.0,10,Debit Card,Returned,43200.0
+ORD000313,2025-05-24,CUST000313,Anjali Menon,Hyderabad,Headphones,Accessories,3,2500.0,10,Debit Card,Cancelled,6750.0
+ORD000550,2025-10-13,CUST000550,Rahul Sharma,Chennai,Smartphone,Electronics,5,30000.0,20,UPI,Returned,120000.0
+ORD000067,2025-02-21,CUST000067,Sanjay Das,Bengaluru,Printer,Electronics,3,8000.0,20,Credit Card,Delivered,19200.0
+ORD000206,2025-08-31,CUST000206,Priya Nair,Pune,Monitor,Electronics,1,12000.0,15,credit card,Returned,10200.0
+ORD000495,2025-01-27,CUST000495,Neha Kapoor,Coimbatore,Printer,Electronics,3,8000.0,30,UPI,Returned,16800.0
+ORD000912,2025-07-28,CUST000912,Arjun Menon,Mumbai,Smartphone,Electronics,1,30000.0,20,Cash,Returned,24000.0
+ORD000227,2025-07-14,CUST000227,Anjali Menon,Coimbatore,Smartwatch,Wearables,1,5000.0,15,Net Banking,Delivered,4250.0
+ORD000482,2025-09-02,CUST000482,Sanjay Das,Hyderabad,Headphones,Accessories,1,2500.0,15,Cash,Returned,2125.0
+ORD000290,2025-07-01,CUST000290,Sanjay Das,Coimbatore,Laptop,Electronics,3,55000.0,15,Net Banking,Delivered,140250.0
+ORD000434,2025-04-10,CUST000434,Arjun Menon,Chennai,Mouse,Accessories,3,700.0,5,Credit Card,Cancelled,1995.0
+ORD000149,2025-10-03,CUST000149,Priya Nair,Coimbatore,Laptop,Electronics,1,55000.0,30,UPI,Returned,38500.0
+ORD000479,2025-01-27,CUST000479,Sanjay Das,Pune,Mouse,Accessories,3,700.0,15,Net Banking,Cancelled,1785.0
+ORD000302,2025-12-26,CUST000302,Arjun Menon,Coimbatore,Smartphone,Electronics,3,30000.0,20,Debit Card,Delivered,72000.0
+ORD000228,2025-10-30,CUST000228,Neha Kapoor,Kochi,Keyboard,Accessories,5,1500.0,20,Cash,Cancelled,6000.0
+ORD000150,2025-12-23,CUST000150,Neha Kapoor,Pune,Headphones,Accessories,1,2500.0,20,Credit Card,Returned,2000.0
+ORD000213,2025-03-14,CUST000213,Amit Kumar,Mumbai,Monitor,Electronics,4,12000.0,15,Net Banking,Delivered,40800.0
+ORD000102,2025-05-04,CUST000102,Sneha Reddy,Delhi,Keyboard,Accessories,4,1500.0,30,Credit Card,Delivered,4200.0
+ORD000157,2025-06-18,CUST000157,Sneha Reddy,Chennai,Laptop,Electronics,5,55000.0,5,Credit Card,Returned,261250.0
+ORD000892,2025-09-17,CUST000892,Sanjay Das,Chennai,Laptop,Electronics,2,55000.0,5,UPI,Cancelled,104500.0
+ORD000606,2025-04-30,CUST000606,Neha Kapoor,Delhi,Headphones,Accessories,5,2500.0,15,Credit Card,Cancelled,10625.0
+ORD000588,2025-12-21,CUST000588,Anjali Menon,Delhi,Monitor,Electronics,4,12000.0,15,Credit Card,Returned,40800.0
+ORD000333,2025-01-21,CUST000333,Anjali Menon,Coimbatore,Smartwatch,Wearables,1,5000.0,15,Net Banking,Delivered,4250.0
+ORD000489,2025-12-13,CUST000489,Rahul Sharma,Pune,Keyboard,Accessories,2,1500.0,5,Net Banking,Cancelled,2850.0
+ORD000667,2025-08-03,CUST000667,Sanjay Das,Chennai,Mouse,Accessories,3,700.0,15,Debit Card,Returned,1785.0
+ORD000024,2025-04-14,CUST000024,Rahul Sharma,Mumbai,Mouse,Accessories,5,700.0,20,Credit Card,Cancelled,2800.0
+ORD000754,2025-08-12,CUST000754,Meera Iyer,Delhi,Laptop,Electronics,3,55000.0,30,UPI,Returned,115500.0
+ORD000114,2025-02-19,CUST000114,Sanjay Das,Hyderabad,Printer,Electronics,5,8000.0,15,Debit Card,Cancelled,34000.0
+ORD000850,2025-10-19,CUST000850,Priya Nair,Delhi,Monitor,Electronics,3,12000.0,30,Debit Card,Cancelled,25200.0
+ORD000309,2025-11-10,CUST000309,Arjun Menon,Coimbatore,Headphones,Accessories,5,2500.0,15,Net Banking,Returned,10625.0
+ORD000989,2025-01-31,CUST000989,Sanjay Das,Mumbai,Smartwatch,Wearables,3,5000.0,15,Credit Card,Delivered,12750.0
+ORD000266,2025-06-18,CUST000266,Meera Iyer,Hyderabad,Keyboard,Accessories,3,1500.0,20,Credit Card,Delivered,3600.0
+ORD000881,2025-05-22,CUST000881,Priya Nair,Kochi,Printer,Electronics,5,8000.0,30,Cash,Cancelled,28000.0
+ORD000321,2025-10-01,CUST000321,Vikram Singh,Delhi,Laptop,Electronics,4,55000.0,5,UPI,Returned,209000.0
+ORD000366,2025-08-20,CUST000366,Meera Iyer,Chennai,Mouse,Accessories,3,700.0,10,Net Banking,Cancelled,1890.0
+ORD000561,2025-11-04,CUST000561,Neha Kapoor,Hyderabad,Keyboard,Accessories,2,1500.0,15,UPI,Cancelled,2550.0
+ORD000551,2025-01-29,CUST000551,Vikram Singh,Bengaluru,Headphones,Accessories,4,2500.0,15,Credit Card,Delivered,8500.0
+ORD000967,2025-06-23,CUST000967,Rahul Sharma,Chennai,Mouse,Accessories,1,700.0,30,Credit Card,Delivered,490.0
+ORD000932,2025-03-19,CUST000932,Sneha Reddy,Kochi,Monitor,Electronics,1,12000.0,15,UPI,Returned,10200.0
+ORD000882,2025-07-12,CUST000882,Unknown,Chennai,Keyboard,Accessories,5,1500.0,10,Debit Card,Cancelled,6750.0
+ORD000064,2025-02-12,CUST000064,Rahul Sharma,Bengaluru,Smartwatch,Wearables,5,5000.0,15,Net Banking,Returned,21250.0
+ORD000518,2025-09-15,CUST000518,Sneha Reddy,Pune,Laptop,Electronics,1,55000.0,20,UPI,Returned,44000.0
+ORD000889,2025-10-29,CUST000889,Sanjay Das,Kochi,Monitor,Electronics,3,12000.0,15,Cash,Cancelled,30600.0
+ORD000220,2025-09-08,CUST000220,Neha Kapoor,Kochi,Mouse,Accessories,4,700.0,5,Cash,Returned,2660.0
+ORD000908,2025-01-07,CUST000908,Arjun Menon,Pune,Smartphone,Electronics,1,30000.0,30,UPI,Delivered,21000.0
+ORD000651,2025-08-08,CUST000651,Sneha Reddy,Hyderabad,Headphones,Accessories,3,2500.0,5,Net Banking,Returned,7125.0
+ORD000461,2025-10-10,CUST000461,Meera Iyer,Pune,Headphones,Accessories,5,2500.0,30,Net Banking,Cancelled,8750.0
+ORD000059,2025-01-07,CUST000059,Unknown,Pune,Smartwatch,Wearables,4,5000.0,10,Net Banking,Delivered,18000.0
+ORD000804,2025-09-08,CUST000804,Vikram Singh,Kochi,Keyboard,Accessories,2,1500.0,5,UPI,Delivered,2850.0
+ORD000003,2025-12-11,CUST000003,Amit Kumar,Bengaluru,Monitor,Electronics,3,12000.0,10,Cash,Returned,32400.0
+ORD000209,2025-05-02,CUST000209,Rahul Sharma,Bengaluru,Headphones,Accessories,4,2500.0,15,Net Banking,Returned,8500.0
+ORD000600,2025-10-03,CUST000600,Arjun Menon,Kochi,Headphones,Accessories,4,2500.0,30,Debit Card,Returned,7000.0
+ORD000478,2025-10-13,CUST000478,Rahul Sharma,Kochi,Mouse,Accessories,4,700.0,5,Cash,Cancelled,2660.0
+ORD000717,2025-06-10,CUST000717,Vikram Singh,Pune,Laptop,Electronics,1,55000.0,20,Net Banking,Delivered,44000.0
+ORD000392,2025-03-15,CUST000392,Amit Kumar,Chennai,Smartwatch,Wearables,5,5000.0,15,Debit Card,Delivered,21250.0
+ORD000919,2025-01-02,CUST000919,Sanjay Das,Kochi,Smartwatch,Wearables,2,5000.0,5,UPI,Returned,9500.0
+ORD000506,2025-07-02,CUST000506,Amit Kumar,Kochi,Smartphone,Electronics,2,30000.0,5,UPI,Cancelled,57000.0
+ORD000276,2025-09-29,CUST000276,Arjun Menon,Pune,Smartphone,Electronics,2,30000.0,5,Debit Card,Delivered,57000.0
+ORD000349,2025-06-14,CUST000349,Priya Nair,Bengaluru,Headphones,Accessories,2,2500.0,5,Net Banking,Cancelled,4750.0
+ORD000107,2025-05-20,CUST000107,Sneha Reddy,Mumbai,Laptop,Electronics,1,55000.0,20,Cash,Cancelled,44000.0
+ORD000542,2025-01-09,CUST000542,Anjali Menon,Mumbai,Laptop,Electronics,1,55000.0,30,Debit Card,Delivered,38500.0
+ORD000816,2025-04-18,CUST000816,Meera Iyer,Delhi,Printer,Electronics,5,8000.0,30,UPI,Cancelled,28000.0
+ORD000018,2025-04-17,CUST000018,Amit Kumar,Hyderabad,Printer,Electronics,3,8000.0,10,UPI,Cancelled,21600.0
+ORD000843,2025-08-25,CUST000843,Arjun Menon,Coimbatore,Laptop,Electronics,3,55000.0,15,UPI,Returned,140250.0
+ORD000814,2025-03-05,CUST000814,Unknown,Coimbatore,Smartphone,Electronics,4,30000.0,15,Net Banking,Returned,102000.0
+ORD000576,2025-10-23,CUST000576,Vikram Singh,Delhi,Headphones,Accessories,4,2500.0,15,Net Banking,Returned,8500.0
+ORD000282,2025-03-16,CUST000282,Sanjay Das,Hyderabad,Keyboard,Accessories,5,1500.0,15,Credit Card,Returned,6375.0
+ORD000353,2025-11-04,CUST000353,Sneha Reddy,Mumbai,Keyboard,Accessories,5,1500.0,15,Net Banking,Cancelled,6375.0
+ORD000637,2025-03-28,CUST000637,Priya Nair,Coimbatore,Headphones,Accessories,1,2500.0,10,Credit Card,Returned,2250.0
+ORD000995,2025-12-10,CUST000995,Neha Kapoor,Delhi,Headphones,Accessories,5,2500.0,15,Net Banking,Cancelled,10625.0
+ORD000533,2025-07-22,CUST000533,Anjali Menon,Chennai,Keyboard,Accessories,1,1500.0,30,Credit Card,Cancelled,1050.0
+ORD000360,2025-07-15,CUST000360,Neha Kapoor,Kochi,Printer,Electronics,4,8000.0,30,Debit Card,Returned,22400.0
+ORD000188,2025-12-15,CUST000188,Meera Iyer,Hyderabad,Laptop,Electronics,1,55000.0,10,Net Banking,Returned,49500.0
+ORD000166,2025-01-21,CUST000166,Meera Iyer,Coimbatore,Headphones,Accessories,3,2500.0,30,Credit Card,Cancelled,5250.0
+ORD000731,2025-09-21,CUST000731,Sneha Reddy,Coimbatore,Monitor,Electronics,4,12000.0,10,Debit Card,Delivered,43200.0
+ORD000943,2025-02-23,CUST000943,Vikram Singh,Kochi,Mouse,Accessories,4,700.0,15,UPI,Cancelled,2380.0
+ORD000270,2025-08-12,CUST000270,Neha Kapoor,Hyderabad,Printer,Electronics,3,8000.0,10,Cash,Returned,21600.0
+ORD000617,2025-03-26,CUST000617,Meera Iyer,Kochi,Smartwatch,Wearables,2,5000.0,15,Cash,Cancelled,8500.0
+ORD000811,2025-11-23,CUST000811,Rahul Sharma,Coimbatore,Laptop,Electronics,3,55000.0,10,UPI,Returned,148500.0
+ORD000289,2025-12-09,CUST000289,Priya Nair,Hyderabad,Keyboard,Accessories,4,1500.0,20,Cash,Returned,4800.0
+ORD000732,2025-08-03,CUST000732,Anjali Menon,Kochi,Mouse,Accessories,1,700.0,15,Debit Card,Delivered,595.0
+ORD000820,2025-08-22,CUST000820,Vikram Singh,Delhi,Keyboard,Accessories,5,1500.0,15,Debit Card,Cancelled,6375.0
+ORD000252,2025-02-10,CUST000252,Anjali Menon,Delhi,Monitor,Electronics,5,12000.0,10,Credit Card,Returned,54000.0
+ORD000513,2025-03-29,CUST000513,Vikram Singh,Bengaluru,Monitor,Electronics,2,12000.0,15,Debit Card,Delivered,20400.0
+ORD000037,2025-04-04,CUST000037,Sneha Reddy,Chennai,Smartphone,Electronics,3,30000.0,20,UPI,Returned,72000.0
+ORD000395,2025-01-03,CUST000395,Anjali Menon,Pune,Smartwatch,Wearables,2,5000.0,15,UPI,Cancelled,8500.0
+ORD000702,2025-09-14,CUST000702,Arjun Menon,Hyderabad,Smartphone,Electronics,4,30000.0,20,Net Banking,Cancelled,96000.0
+ORD000298,2025-12-11,CUST000298,Amit Kumar,Bengaluru,Monitor,Electronics,1,12000.0,5,Debit Card,Delivered,11400.0
+ORD000020,2025-06-13,CUST000020,Sanjay Das,Hyderabad,Smartwatch,Wearables,1,5000.0,20,UPI,Cancelled,4000.0
+ORD000311,2025-05-28,CUST000311,Meera Iyer,Hyderabad,Smartphone,Electronics,2,30000.0,10,Debit Card,Returned,54000.0
+ORD000554,2025-07-31,CUST000554,Anjali Menon,Delhi,Smartphone,Electronics,2,30000.0,10,net banking,Cancelled,54000.0
+ORD000268,2025-05-26,CUST000268,Meera Iyer,Mumbai,Monitor,Electronics,5,12000.0,30,Credit Card,Returned,42000.0
+ORD000113,2025-02-01,CUST000113,Arjun Menon,Hyderabad,Mouse,Accessories,1,700.0,30,UPI,Cancelled,490.0
+ORD000730,2025-09-21,CUST000730,Rahul Sharma,Hyderabad,Mouse,Accessories,4,700.0,20,Debit Card,Returned,2240.0
+ORD000633,2025-05-02,CUST000633,Rahul Sharma,Kochi,Smartphone,Electronics,3,30000.0,15,Cash,Cancelled,76500.0
+ORD000292,2025-10-08,CUST000292,Arjun Menon,Mumbai,Mouse,Accessories,3,700.0,15,UPI,Returned,1785.0
+ORD000921,2025-01-06,CUST000921,Vikram Singh,Kochi,Monitor,Electronics,1,12000.0,15,Cash,Cancelled,10200.0
+ORD000942,2025-12-30,CUST000942,Anjali Menon,Bengaluru,Headphones,Accessories,2,2500.0,15,Cash,Delivered,4250.0
+ORD000645,2025-02-16,CUST000645,Amit Kumar,Mumbai,Headphones,Accessories,5,2500.0,15,Net Banking,Delivered,10625.0
+ORD000715,2025-09-16,CUST000715,Arjun Menon,Coimbatore,Printer,Electronics,1,8000.0,5,Net Banking,Cancelled,7600.0
+ORD000929,2025-01-03,CUST000929,Rahul Sharma,Kochi,Mouse,Accessories,4,700.0,15,Net Banking,Returned,2380.0
+ORD000190,2025-04-25,CUST000190,Arjun Menon,Chennai,Mouse,Accessories,4,700.0,30,Cash,Cancelled,1960.0
+ORD000711,2025-02-25,CUST000711,Priya Nair,Chennai,Keyboard,Accessories,3,1500.0,15,Cash,Cancelled,3825.0
+ORD000248,2025-03-15,CUST000248,Priya Nair,Bengaluru,Smartwatch,Wearables,5,5000.0,20,Debit Card,Cancelled,20000.0
+ORD000006,2025-05-02,CUST000006,Arjun Menon,Chennai,Laptop,Electronics,5,55000.0,30,Net Banking,Delivered,192500.0
+ORD000661,2025-06-22,CUST000661,Neha Kapoor,Hyderabad,Laptop,Electronics,2,55000.0,30,Net Banking,Cancelled,77000.0
+ORD000564,2025-06-08,CUST000564,Sanjay Das,Mumbai,Printer,Electronics,3,8000.0,30,Debit Card,Cancelled,16800.0
+ORD000905,2025-09-10,CUST000905,Meera Iyer,Pune,Smartphone,Electronics,4,30000.0,10,Credit Card,Returned,108000.0
+ORD000752,2025-09-20,CUST000752,Vikram Singh,Coimbatore,Printer,Electronics,2,8000.0,20,Cash,Cancelled,12800.0
+ORD000146,2025-11-04,CUST000146,Anjali Menon,Chennai,Mouse,Accessories,2,700.0,15,UPI,Delivered,1190.0
+ORD000472,2025-04-16,CUST000472,Vikram Singh,Bengaluru,Monitor,Electronics,1,12000.0,30,UPI,Delivered,8400.0
+ORD000205,2025-04-07,CUST000205,Meera Iyer,Pune,Smartphone,Electronics,1,30000.0,5,Debit Card,Returned,28500.0
+ORD000916,2025-04-12,CUST000916,Anjali Menon,Mumbai,Smartwatch,Wearables,5,5000.0,5,UPI,Delivered,23750.0
+ORD000949,2025-05-01,CUST000949,Anjali Menon,Pune,Keyboard,Accessories,1,1500.0,15,Cash,Returned,1275.0
+ORD000398,2025-03-04,CUST000398,Meera Iyer,Bengaluru,Monitor,Electronics,1,12000.0,5,UPI,Returned,11400.0
+ORD000317,2025-05-27,CUST000317,Sanjay Das,Mumbai,Monitor,Electronics,2,12000.0,15,UPI,Returned,20400.0
+ORD000433,2025-04-23,CUST000433,Amit Kumar,Coimbatore,Smartphone,Electronics,1,30000.0,5,Debit Card,Delivered,28500.0
+ORD000965,2025-07-17,CUST000965,Vikram Singh,Hyderabad,Headphones,Accessories,4,2500.0,15,Debit Card,Delivered,8500.0
+ORD000534,2025-08-24,CUST000534,Meera Iyer,Kochi,Smartwatch,Wearables,3,5000.0,30,UPI,Delivered,10500.0
+ORD000363,2025-06-20,CUST000363,Priya Nair,Coimbatore,Printer,Electronics,4,8000.0,15,Credit Card,Delivered,27200.0
+ORD000840,2025-09-06,CUST000840,Meera Iyer,Chennai,Smartwatch,Wearables,2,5000.0,10,UPI,Delivered,9000.0
+ORD000128,2025-11-23,CUST000128,Sanjay Das,Coimbatore,Headphones,Accessories,5,2500.0,15,Net Banking,Cancelled,10625.0
+ORD000562,2025-04-26,CUST000562,Meera Iyer,Pune,Monitor,Electronics,2,12000.0,30,Cash,Returned,16800.0
+ORD000831,2025-11-20,CUST000831,Sneha Reddy,Mumbai,Smartphone,Electronics,1,30000.0,5,Cash,Delivered,28500.0
+ORD000891,2025-09-18,CUST000891,Rahul Sharma,Coimbatore,Smartphone,Electronics,4,30000.0,30,UPI,Delivered,84000.0
+ORD000315,2025-10-13,CUST000315,Amit Kumar,Pune,Keyboard,Accessories,4,1500.0,15,Cash,Delivered,5100.0
+ORD000424,2025-06-15,CUST000424,Sneha Reddy,Delhi,Smartphone,Electronics,4,30000.0,20,UPI,Delivered,96000.0
+ORD000332,2025-11-26,CUST000332,Rahul Sharma,Bengaluru,Smartwatch,Wearables,1,5000.0,5,Credit Card,Delivered,4750.0
+ORD000657,2025-10-07,CUST000657,Arjun Menon,Bengaluru,Printer,Electronics,2,8000.0,20,Cash,Delivered,12800.0
+ORD000553,2025-08-07,CUST000553,Priya Nair,Pune,Printer,Electronics,5,8000.0,30,UPI,Cancelled,28000.0
+ORD000405,2025-11-17,CUST000405,Vikram Singh,Hyderabad,Laptop,Electronics,5,55000.0,30,Cash,Delivered,192500.0
+ORD000475,2025-01-25,CUST000475,Priya Nair,Chennai,Keyboard,Accessories,3,1500.0,5,Cash,Returned,4275.0
+ORD000369,2025-02-12,CUST000369,Vikram Singh,Delhi,Keyboard,Accessories,3,1500.0,15,Net Banking,Cancelled,3825.0
+ORD000828,2025-11-21,CUST000828,Rahul Sharma,Bengaluru,Keyboard,Accessories,3,1500.0,10,Debit Card,Returned,4050.0
+ORD000885,2025-04-03,CUST000885,Sanjay Das,Chennai,Printer,Electronics,2,8000.0,20,UPI,Returned,12800.0
+ORD000043,2025-12-25,CUST000043,Sanjay Das,Chennai,Laptop,Electronics,5,55000.0,30,Debit Card,Delivered,192500.0
+ORD000389,2025-12-18,CUST000389,Neha Kapoor,Mumbai,Printer,Electronics,1,8000.0,15,Debit Card,Delivered,6800.0
+ORD000118,2025-11-30,CUST000118,Priya Nair,Kochi,Headphones,Accessories,5,2500.0,10,UPI,Delivered,11250.0
+ORD000494,2025-11-10,CUST000494,Sanjay Das,Chennai,Laptop,Electronics,4,55000.0,5,Cash,Returned,209000.0
+ORD000271,2025-11-20,CUST000271,Arjun Menon,Kochi,Headphones,Accessories,4,2500.0,20,Credit Card,Returned,8000.0
+ORD000325,2025-03-15,CUST000325,Amit Kumar,Hyderabad,Monitor,Electronics,2,12000.0,15,Net Banking,Cancelled,20400.0
+ORD000792,2025-06-30,CUST000792,Anjali Menon,Mumbai,Mouse,Accessories,2,700.0,15,UPI,Returned,1190.0
+ORD000001,2025-12-14,CUST000001,Meera Iyer,Kochi,Monitor,Electronics,3,12000.0,10,Cash,Returned,32400.0
+ORD000010,2025-05-10,CUST000010,Anjali Menon,Pune,Headphones,Accessories,4,2500.0,30,Net Banking,Delivered,7000.0
+ORD000945,2025-11-18,CUST000945,Rahul Sharma,Mumbai,Mouse,Accessories,3,700.0,30,Cash,Returned,1470.0
+ORD000829,2025-04-08,CUST000829,Anjali Menon,Kochi,Laptop,Electronics,2,55000.0,10,Cash,Returned,99000.0
+ORD000960,2025-12-08,CUST000960,Meera Iyer,Pune,Smartwatch,Wearables,3,5000.0,15,Cash,Cancelled,12750.0
+ORD000456,2025-12-06,CUST000456,Vikram Singh,Bengaluru,Smartphone,Electronics,4,30000.0,5,Cash,Returned,114000.0
+ORD000984,2025-04-29,CUST000984,Sneha Reddy,Kochi,Smartphone,Electronics,2,30000.0,5,Debit Card,Returned,57000.0
+ORD000596,2025-07-25,CUST000596,Priya Nair,Pune,Smartphone,Electronics,2,30000.0,15,UPI,Delivered,51000.0
+ORD000718,2025-10-22,CUST000718,Neha Kapoor,Delhi,Headphones,Accessories,5,2500.0,20,Net Banking,Returned,10000.0
+ORD000320,2025-05-05,CUST000320,Sanjay Das,Delhi,Headphones,Accessories,5,2500.0,5,Debit Card,Cancelled,11875.0
+ORD000386,2025-10-24,CUST000386,Arjun Menon,Hyderabad,Mouse,Accessories,4,700.0,10,UPI,Returned,2520.0
+ORD000557,2025-02-27,CUST000557,Vikram Singh,Pune,Keyboard,Accessories,5,1500.0,15,Credit Card,Delivered,6375.0
+ORD000497,2025-04-27,CUST000497,Arjun Menon,Pune,Smartphone,Electronics,1,30000.0,5,Debit Card,Cancelled,28500.0
+ORD000435,2025-10-03,CUST000435,Amit Kumar,Chennai,Laptop,Electronics,4,55000.0,10,UPI,Cancelled,198000.0
+ORD000019,2025-01-17,CUST000019,Rahul Sharma,Mumbai,Mouse,Accessories,4,700.0,15,Credit Card,Cancelled,2380.0
+ORD000818,2025-04-16,CUST000818,Priya Nair,Chennai,Printer,Electronics,2,8000.0,30,Debit Card,Delivered,11200.0
+ORD000217,2025-03-07,CUST000217,Anjali Menon,Mumbai,Printer,Electronics,4,8000.0,30,Credit Card,Returned,22400.0
+ORD000187,2025-10-01,CUST000187,Sanjay Das,Delhi,Monitor,Electronics,1,12000.0,30,UPI,Returned,8400.0
+ORD000087,2025-07-19,CUST000087,Meera Iyer,Chennai,Monitor,Electronics,4,12000.0,30,Credit Card,Returned,33600.0
+ORD000833,2025-04-16,CUST000833,Sanjay Das,Pune,Mouse,Accessories,1,700.0,10,Credit Card,Cancelled,630.0
+ORD000504,2025-09-10,CUST000504,Rahul Sharma,Delhi,Mouse,Accessories,5,700.0,5,Debit Card,Cancelled,3325.0
+ORD000047,2025-04-23,CUST000047,Neha Kapoor,Mumbai,Mouse,Accessories,2,700.0,30,UPI,Cancelled,980.0
+ORD000675,2025-08-22,CUST000675,Arjun Menon,Mumbai,Keyboard,Accessories,5,1500.0,20,Net Banking,Returned,6000.0
+ORD000913,2025-09-30,CUST000913,Sneha Reddy,Mumbai,Smartwatch,Wearables,5,5000.0,30,Net Banking,Delivered,17500.0
+ORD000222,2025-03-21,CUST000222,Rahul Sharma,Pune,Laptop,Electronics,5,55000.0,30,Net Banking,Delivered,192500.0
+ORD000958,2025-11-18,CUST000958,Priya Nair,Delhi,Keyboard,Accessories,3,1500.0,20,UPI,Cancelled,3600.0
+ORD000437,2025-09-13,CUST000437,Sanjay Das,Kochi,Headphones,Accessories,2,2500.0,30,Debit Card,Returned,3500.0
+ORD000864,2025-05-02,CUST000864,Rahul Sharma,Kochi,Printer,Electronics,4,8000.0,15,UPI,Delivered,27200.0
+ORD001000,2025-04-18,CUST001000,Sneha Reddy,Pune,Smartwatch,Wearables,2,5000.0,20,Net Banking,Returned,8000.0
+ORD000863,2025-04-05,CUST000863,Neha Kapoor,Chennai,Laptop,Electronics,3,55000.0,15,Net Banking,Returned,140250.0
+ORD000259,2025-10-07,CUST000259,Anjali Menon,Kochi,Printer,Electronics,5,8000.0,15,Credit Card,Cancelled,34000.0
+ORD000138,2025-12-16,CUST000138,Amit Kumar,Chennai,Keyboard,Accessories,2,1500.0,5,cash,Delivered,2850.0
+ORD000997,2025-07-19,CUST000997,Neha Kapoor,Pune,Headphones,Accessories,4,2500.0,15,Net Banking,Cancelled,8500.0
+ORD000331,2025-09-03,CUST000331,Neha Kapoor,Delhi,Headphones,Accessories,3,2500.0,15,Credit Card,Returned,6375.0
+ORD000377,2025-10-13,CUST000377,Meera Iyer,Chennai,Laptop,Electronics,1,55000.0,20,CREDIT CARD,Returned,44000.0
+ORD000455,2025-07-30,CUST000455,Priya Nair,Kochi,Smartphone,Electronics,2,30000.0,15,Debit Card,Cancelled,51000.0
+ORD000159,2025-01-22,CUST000159,Sanjay Das,Hyderabad,Printer,Electronics,3,8000.0,10,Cash,Delivered,21600.0
+ORD000709,2025-07-23,CUST000709,Rahul Sharma,Delhi,Printer,Electronics,5,8000.0,30,Cash,Cancelled,28000.0
+ORD000181,2025-11-08,CUST000181,Unknown,Coimbatore,Laptop,Electronics,2,55000.0,15,Credit Card,Returned,93500.0
+ORD000522,2025-05-18,CUST000522,Amit Kumar,Bengaluru,Mouse,Accessories,3,700.0,15,UPI,Cancelled,1785.0
+ORD000772,2025-12-30,CUST000772,Vikram Singh,Mumbai,Laptop,Electronics,5,55000.0,20,UPI,Returned,220000.0
+ORD000033,2025-06-19,CUST000033,Priya Nair,Pune,Monitor,Electronics,3,12000.0,30,Debit Card,Cancelled,25200.0
+ORD000151,2025-07-18,CUST000151,Priya Nair,Kochi,Headphones,Accessories,2,2500.0,5,Debit Card,Cancelled,4750.0
+ORD000778,2025-07-26,CUST000778,Arjun Menon,Kochi,Mouse,Accessories,3,700.0,20,Cash,Returned,1680.0
+ORD000104,2025-05-24,CUST000104,Arjun Menon,Delhi,Mouse,Accessories,5,700.0,30,Credit Card,Cancelled,2450.0
+ORD000348,2025-04-27,CUST000348,Vikram Singh,Mumbai,Monitor,Electronics,5,12000.0,15,Cash,Cancelled,51000.0
+ORD000552,2025-08-22,CUST000552,Neha Kapoor,Mumbai,Mouse,Accessories,3,700.0,30,Debit Card,Returned,1470.0
+ORD000541,2025-04-23,CUST000541,Anjali Menon,Hyderabad,Printer,Electronics,2,8000.0,15,Net Banking,Returned,13600.0
+ORD000351,2025-05-04,CUST000351,Sanjay Das,Coimbatore,Monitor,Electronics,4,12000.0,15,Cash,Delivered,40800.0
+ORD000728,2025-05-19,CUST000728,Amit Kumar,Chennai,Mouse,Accessories,5,700.0,5,Debit Card,Cancelled,3325.0
+ORD000517,2025-06-06,CUST000517,Priya Nair,Delhi,Monitor,Electronics,4,12000.0,20,UPI,Delivered,38400.0
+ORD000682,2025-03-09,CUST000682,Sanjay Das,Bengaluru,Monitor,Electronics,3,12000.0,10,Cash,Cancelled,32400.0
+ORD000214,2025-10-20,CUST000214,Priya Nair,Chennai,Headphones,Accessories,2,2500.0,10,CREDIT CARD,Delivered,4500.0
+ORD000466,2025-02-27,CUST000466,Arjun Menon,Coimbatore,Keyboard,Accessories,3,1500.0,10,Credit Card,Returned,4050.0
+ORD000207,2025-12-31,CUST000207,Anjali Menon,Delhi,Mouse,Accessories,3,700.0,30,Debit Card,Cancelled,1470.0
+ORD000666,2025-09-22,CUST000666,Meera Iyer,Chennai,Laptop,Electronics,1,55000.0,15,Cash,Delivered,46750.0
+ORD000124,2025-10-18,CUST000124,Sanjay Das,Bengaluru,Monitor,Electronics,5,12000.0,30,UPI,Cancelled,42000.0
+ORD000256,2025-02-16,CUST000256,Rahul Sharma,Kochi,Smartwatch,Wearables,4,5000.0,30,Debit Card,Cancelled,14000.0
+ORD000413,2025-08-04,CUST000413,Amit Kumar,Mumbai,Laptop,Electronics,5,55000.0,15,debit card,Returned,233750.0
+ORD000329,2025-11-28,CUST000329,Arjun Menon,Delhi,Smartphone,Electronics,5,30000.0,15,Net Banking,Returned,127500.0
+ORD000726,2025-12-26,CUST000726,Sanjay Das,Kochi,Mouse,Accessories,2,700.0,30,Credit Card,Returned,980.0
+ORD000649,2025-08-09,CUST000649,Sneha Reddy,Kochi,Printer,Electronics,5,8000.0,20,Credit Card,Delivered,32000.0
+ORD000584,2025-01-23,CUST000584,Anjali Menon,Hyderabad,Smartphone,Electronics,1,30000.0,15,UPI,Delivered,25500.0
+ORD000347,2025-05-19,CUST000347,Rahul Sharma,Chennai,Smartphone,Electronics,1,30000.0,20,UPI,Returned,24000.0
+ORD000925,2025-10-06,CUST000925,Sanjay Das,Kochi,Keyboard,Accessories,4,1500.0,30,Debit Card,Cancelled,4200.0
+ORD000428,2025-12-23,CUST000428,Sneha Reddy,Hyderabad,Mouse,Accessories,1,700.0,20,Net Banking,Returned,560.0
+ORD000886,2025-09-17,CUST000886,Vikram Singh,Kochi,Mouse,Accessories,2,700.0,5,Net Banking,Returned,1330.0
+ORD000681,2025-05-02,CUST000681,Arjun Menon,Chennai,Smartphone,Electronics,5,30000.0,15,Credit Card,Delivered,127500.0
+ORD000074,2025-03-21,CUST000074,Sneha Reddy,Hyderabad,Printer,Electronics,4,8000.0,20,Debit Card,Returned,25600.0
+ORD000742,2025-09-30,CUST000742,Arjun Menon,Chennai,Monitor,Electronics,2,12000.0,20,Cash,Delivered,19200.0
+ORD000684,2025-02-01,CUST000684,Neha Kapoor,Mumbai,Smartwatch,Wearables,1,5000.0,15,DEBIT CARD,Returned,4250.0
+ORD000608,2025-10-11,CUST000608,Sanjay Das,Coimbatore,Keyboard,Accessories,1,1500.0,30,Debit Card,Delivered,1050.0
+ORD000780,2025-11-11,CUST000780,Vikram Singh,Kochi,Smartwatch,Wearables,4,5000.0,20,UPI,Returned,16000.0
+ORD000422,2025-09-29,CUST000422,Rahul Sharma,Hyderabad,Headphones,Accessories,3,2500.0,15,Net Banking,Delivered,6375.0
+ORD000471,2025-02-18,CUST000471,Sneha Reddy,Chennai,Headphones,Accessories,2,2500.0,20,Debit Card,Delivered,4000.0
+ORD000628,2025-11-15,CUST000628,Sneha Reddy,Pune,Laptop,Electronics,2,55000.0,20,UPI,Returned,88000.0
+ORD000460,2025-12-04,CUST000460,Sneha Reddy,Coimbatore,Headphones,Accessories,5,2500.0,5,Debit Card,Cancelled,11875.0
+ORD000927,2025-10-25,CUST000927,Sneha Reddy,Coimbatore,Smartwatch,Wearables,5,5000.0,15,Debit Card,Delivered,21250.0
+ORD000374,2025-03-13,CUST000374,Rahul Sharma,Hyderabad,Monitor,Electronics,5,12000.0,5,Cash,Returned,57000.0
+ORD000049,2025-12-28,CUST000049,Sneha Reddy,Hyderabad,Headphones,Accessories,2,2500.0,5,UPI,Delivered,4750.0
+ORD000507,2025-07-03,CUST000507,Amit Kumar,Mumbai,Monitor,Electronics,5,12000.0,15,Debit Card,Delivered,51000.0
+ORD000590,2025-04-08,CUST000590,Amit Kumar,Kochi,Mouse,Accessories,2,700.0,20,Cash,Returned,1120.0
+ORD000759,2025-07-03,CUST000759,Arjun Menon,Bengaluru,Smartwatch,Wearables,5,5000.0,10,Cash,Cancelled,22500.0
+ORD000934,2025-08-19,CUST000934,Neha Kapoor,Kochi,Smartwatch,Wearables,2,5000.0,30,UPI,Returned,7000.0
+ORD000083,2025-11-12,CUST000083,Priya Nair,Delhi,Mouse,Accessories,2,700.0,10,UPI,Returned,1260.0
+ORD000356,2025-04-11,CUST000356,Rahul Sharma,Pune,Monitor,Electronics,3,12000.0,15,UPI,Delivered,30600.0
+ORD000096,2025-12-22,CUST000096,Meera Iyer,Pune,Headphones,Accessories,4,2500.0,30,Net Banking,Cancelled,7000.0
+ORD000447,2025-08-13,CUST000447,Meera Iyer,Delhi,Monitor,Electronics,2,12000.0,10,Debit Card,Delivered,21600.0
+ORD000068,2025-06-06,CUST000068,Arjun Menon,Hyderabad,Laptop,Electronics,2,55000.0,15,UPI,Returned,93500.0
+ORD000835,2025-12-05,CUST000835,Meera Iyer,Delhi,Keyboard,Accessories,1,1500.0,30,UPI,Cancelled,1050.0
+ORD000609,2025-03-31,CUST000609,Vikram Singh,Chennai,Smartwatch,Wearables,1,5000.0,10,Net Banking,Returned,4500.0
+ORD000535,2025-05-19,CUST000535,Meera Iyer,Chennai,Smartwatch,Wearables,5,5000.0,5,Debit Card,Cancelled,23750.0
+ORD000767,2025-03-17,CUST000767,Anjali Menon,Mumbai,Printer,Electronics,4,8000.0,15,Credit Card,Returned,27200.0
+ORD000423,2025-09-07,CUST000423,Vikram Singh,Hyderabad,Monitor,Electronics,3,12000.0,15,Debit Card,Delivered,30600.0
+ORD000381,2025-11-27,CUST000381,Sneha Reddy,Hyderabad,Smartwatch,Wearables,2,5000.0,15,UPI,Returned,8500.0
+ORD000757,2025-04-23,CUST000757,Vikram Singh,Chennai,Printer,Electronics,2,8000.0,30,Cash,Returned,11200.0
+ORD000202,2025-04-24,CUST000202,Amit Kumar,Chennai,Printer,Electronics,3,8000.0,5,UPI,Returned,22800.0
+ORD000358,2025-09-26,CUST000358,Meera Iyer,Pune,Keyboard,Accessories,1,1500.0,10,Credit Card,Delivered,1350.0
+ORD000672,2025-08-09,CUST000672,Arjun Menon,Hyderabad,Printer,Electronics,3,8000.0,20,Net Banking,Delivered,19200.0
+ORD000129,2025-03-03,CUST000129,Unknown,Kochi,Printer,Electronics,3,8000.0,10,UPI,Returned,21600.0
+ORD000145,2025-05-05,CUST000145,Amit Kumar,Chennai,Smartphone,Electronics,1,30000.0,5,Cash,Returned,28500.0
+ORD000402,2025-07-23,CUST000402,Meera Iyer,Hyderabad,Smartphone,Electronics,4,30000.0,20,Cash,Returned,96000.0
+ORD000210,2025-02-08,CUST000210,Arjun Menon,Coimbatore,Laptop,Electronics,5,55000.0,10,UPI,Returned,247500.0
+ORD000287,2025-02-06,CUST000287,Priya Nair,Kochi,Printer,Electronics,1,8000.0,30,Credit Card,Delivered,5600.0
+ORD000499,2025-01-21,CUST000499,Unknown,Kochi,Laptop,Electronics,3,55000.0,5,Net Banking,Returned,156750.0
+ORD000269,2025-06-12,CUST000269,Amit Kumar,Delhi,Smartwatch,Wearables,3,5000.0,15,Cash,Cancelled,12750.0
+ORD000091,2025-01-24,CUST000091,Neha Kapoor,Chennai,Mouse,Accessories,2,700.0,20,Debit Card,Delivered,1120.0
+ORD000042,2025-01-01,CUST000042,Anjali Menon,Chennai,Mouse,Accessories,4,700.0,20,Net Banking,Delivered,2240.0
+ORD000974,2025-08-17,CUST000974,Anjali Menon,Bengaluru,Smartwatch,Wearables,5,5000.0,20,UPI,Cancelled,20000.0
+ORD000746,2025-08-16,CUST000746,Sanjay Das,Kochi,Smartwatch,Wearables,2,5000.0,15,Credit Card,Delivered,8500.0
+ORD000338,2025-03-29,CUST000338,Rahul Sharma,Chennai,Smartphone,Electronics,4,30000.0,15,Cash,Cancelled,102000.0
+ORD000417,2025-04-06,CUST000417,Unknown,Bengaluru,Smartwatch,Wearables,5,5000.0,10,Net Banking,Delivered,22500.0
+ORD000906,2025-07-11,CUST000906,Sneha Reddy,Bengaluru,Printer,Electronics,2,8000.0,10,Net Banking,Returned,14400.0
+ORD000235,2025-05-25,CUST000235,Arjun Menon,Bengaluru,Mouse,Accessories,5,700.0,5,UPI,Returned,3325.0
+ORD000054,2025-06-08,CUST000054,Sanjay Das,Mumbai,Smartwatch,Wearables,3,5000.0,10,Net Banking,Cancelled,13500.0
+ORD000691,2025-08-06,CUST000691,Sanjay Das,Coimbatore,Keyboard,Accessories,5,1500.0,20,UPI,Returned,6000.0
+ORD000786,2025-02-16,CUST000786,Anjali Menon,Chennai,Smartphone,Electronics,5,30000.0,5,Cash,Returned,142500.0
+ORD000244,2025-06-21,CUST000244,Arjun Menon,Mumbai,Keyboard,Accessories,3,1500.0,10,Net Banking,Cancelled,4050.0
+ORD000080,2025-12-21,CUST000080,Priya Nair,Chennai,Printer,Electronics,5,8000.0,15,Cash,Delivered,34000.0
+ORD000052,2025-02-19,CUST000052,Rahul Sharma,Mumbai,Laptop,Electronics,5,55000.0,20,Cash,Returned,220000.0
+ORD000527,2025-06-24,CUST000527,Anjali Menon,Bengaluru,Printer,Electronics,2,8000.0,20,Credit Card,Delivered,12800.0
+ORD000938,2025-12-20,CUST000938,Meera Iyer,Delhi,Smartphone,Electronics,1,30000.0,5,UPI,Returned,28500.0
+ORD000339,2025-02-11,CUST000339,Vikram Singh,Kochi,Laptop,Electronics,2,55000.0,20,UPI,Delivered,88000.0
+ORD000341,2025-12-25,CUST000341,Priya Nair,Kochi,Smartphone,Electronics,4,30000.0,20,Cash,Delivered,96000.0
+ORD000785,2025-06-26,CUST000785,Sanjay Das,Chennai,Smartwatch,Wearables,5,5000.0,5,UPI,Returned,23750.0
+ORD000798,2025-03-13,CUST000798,Unknown,Kochi,Keyboard,Accessories,1,1500.0,15,Debit Card,Returned,1275.0
+ORD000536,2025-01-23,CUST000536,Sneha Reddy,Kochi,Keyboard,Accessories,3,1500.0,5,UPI,Returned,4275.0
+ORD000915,2025-03-25,CUST000915,Neha Kapoor,Pune,Printer,Electronics,1,8000.0,10,Credit Card,Delivered,7200.0
+ORD000641,2025-03-22,CUST000641,Priya Nair,Kochi,Smartphone,Electronics,4,30000.0,15,upi,Returned,102000.0
+ORD000678,2025-05-16,CUST000678,Arjun Menon,Mumbai,Headphones,Accessories,5,2500.0,10,UPI,Returned,11250.0
+ORD000714,2025-10-02,CUST000714,Meera Iyer,Pune,Mouse,Accessories,5,700.0,20,UPI,Delivered,2800.0
+ORD000558,2025-02-28,CUST000558,Anjali Menon,Pune,Headphones,Accessories,2,2500.0,15,Cash,Delivered,4250.0
+ORD000953,2025-04-10,CUST000953,Rahul Sharma,Kochi,Laptop,Electronics,1,55000.0,15,Debit Card,Cancelled,46750.0
+ORD000866,2025-02-23,CUST000866,Anjali Menon,Chennai,Mouse,Accessories,3,700.0,20,Debit Card,Returned,1680.0
+ORD000748,2025-09-04,CUST000748,Rahul Sharma,Mumbai,Printer,Electronics,2,8000.0,15,Cash,Returned,13600.0
+ORD000314,2025-03-27,CUST000314,Rahul Sharma,Delhi,Keyboard,Accessories,2,1500.0,5,Cash,Delivered,2850.0
+ORD000750,2025-01-29,CUST000750,Sneha Reddy,Chennai,Mouse,Accessories,2,700.0,30,Debit Card,Returned,980.0
+ORD000555,2025-03-02,CUST000555,Anjali Menon,Coimbatore,Laptop,Electronics,4,55000.0,20,Net Banking,Delivered,176000.0
+ORD000233,2025-04-29,CUST000233,Anjali Menon,Kochi,Laptop,Electronics,4,55000.0,15,UPI,Cancelled,187000.0
+ORD000952,2025-10-06,CUST000952,Priya Nair,Mumbai,Laptop,Electronics,3,55000.0,10,UPI,Delivered,148500.0
+ORD000592,2025-09-03,CUST000592,Arjun Menon,Chennai,Monitor,Electronics,4,12000.0,15,UPI,Delivered,40800.0
+ORD000186,2025-07-11,CUST000186,Sneha Reddy,Bengaluru,Monitor,Electronics,3,12000.0,15,Cash,Cancelled,30600.0
+ORD000063,2025-08-12,CUST000063,Anjali Menon,Kochi,Keyboard,Accessories,4,1500.0,5,Net Banking,Returned,5700.0
+ORD000481,2025-12-30,CUST000481,Arjun Menon,Bengaluru,Smartwatch,Wearables,2,5000.0,10,Net Banking,Cancelled,9000.0
+ORD000733,2025-02-15,CUST000733,Priya Nair,Chennai,Smartwatch,Wearables,4,5000.0,15,Debit Card,Cancelled,17000.0
+ORD000781,2025-11-23,CUST000781,Meera Iyer,Chennai,Headphones,Accessories,2,2500.0,20,UPI,Delivered,4000.0
+ORD000625,2025-10-27,CUST000625,Meera Iyer,Pune,Monitor,Electronics,1,12000.0,15,UPI,Delivered,10200.0
+ORD000524,2025-04-09,CUST000524,Sneha Reddy,Bengaluru,Keyboard,Accessories,4,1500.0,30,UPI,Cancelled,4200.0
+ORD000663,2025-04-15,CUST000663,Priya Nair,Coimbatore,Smartwatch,Wearables,4,5000.0,30,Cash,Cancelled,14000.0
+ORD000747,2025-11-24,CUST000747,Priya Nair,Delhi,Smartwatch,Wearables,5,5000.0,20,Net Banking,Delivered,20000.0
+ORD000598,2025-10-15,CUST000598,Meera Iyer,Pune,Printer,Electronics,2,8000.0,30,Debit Card,Delivered,11200.0
+ORD000247,2025-11-16,CUST000247,Unknown,Coimbatore,Headphones,Accessories,2,2500.0,20,Credit Card,Cancelled,4000.0
+ORD000135,2025-03-05,CUST000135,Priya Nair,Mumbai,Smartphone,Electronics,4,30000.0,15,Debit Card,Delivered,102000.0
+ORD000656,2025-06-22,CUST000656,Anjali Menon,Chennai,Monitor,Electronics,3,12000.0,30,Net Banking,Returned,25200.0
+ORD000954,2025-04-09,CUST000954,Sanjay Das,Bengaluru,Smartwatch,Wearables,3,5000.0,15,UPI,Returned,12750.0
+ORD000462,2025-09-07,CUST000462,Meera Iyer,Pune,Headphones,Accessories,5,2500.0,5,Cash,Returned,11875.0
+ORD000784,2025-12-06,CUST000784,Vikram Singh,Coimbatore,Smartwatch,Wearables,3,5000.0,30,Credit Card,Delivered,10500.0
+ORD000361,2025-06-13,CUST000361,Rahul Sharma,Chennai,Keyboard,Accessories,1,1500.0,30,Credit Card,Delivered,1050.0
+ORD000291,2025-12-15,CUST000291,Anjali Menon,Hyderabad,Printer,Electronics,1,8000.0,10,Cash,Delivered,7200.0
+ORD000183,2025-12-17,CUST000183,Sneha Reddy,Mumbai,Printer,Electronics,3,8000.0,20,Cash,Delivered,19200.0
+ORD000365,2025-03-10,CUST000365,Neha Kapoor,Kochi,Smartphone,Electronics,4,30000.0,10,Net Banking,Cancelled,108000.0
+ORD000819,2025-11-09,CUST000819,Sanjay Das,Kochi,Headphones,Accessories,2,2500.0,30,Debit Card,Returned,3500.0
+ORD000857,2025-11-25,CUST000857,Vikram Singh,Pune,Headphones,Accessories,3,2500.0,15,NET BANKING,Delivered,6375.0
+ORD000971,2025-10-29,CUST000971,Sneha Reddy,Mumbai,Headphones,Accessories,1,2500.0,5,UPI,Delivered,2375.0
+ORD000972,2025-11-05,CUST000972,Sanjay Das,Coimbatore,Mouse,Accessories,3,700.0,15,Credit Card,Cancelled,1785.0
+ORD000005,2025-10-26,CUST000005,Neha Kapoor,Delhi,Mouse,Accessories,4,700.0,30,UPI,Delivered,1960.0
+ORD000646,2025-11-05,CUST000646,Priya Nair,Hyderabad,Laptop,Electronics,1,55000.0,10,Cash,Delivered,49500.0
+ORD000045,2025-05-07,CUST000045,Sneha Reddy,Chennai,Keyboard,Accessories,3,1500.0,15,Cash,Returned,3825.0
+ORD000473,2025-06-28,CUST000473,Priya Nair,Coimbatore,Laptop,Electronics,5,55000.0,10,Credit Card,Delivered,247500.0
+ORD000865,2025-12-25,CUST000865,Anjali Menon,Kochi,Laptop,Electronics,2,55000.0,30,Debit Card,Returned,77000.0
+ORD000763,2025-10-21,CUST000763,Unknown,Hyderabad,Printer,Electronics,3,8000.0,5,Cash,Cancelled,22800.0
+ORD000469,2025-11-30,CUST000469,Amit Kumar,Kochi,Monitor,Electronics,1,12000.0,15,Debit Card,Delivered,10200.0
+ORD000802,2025-04-11,CUST000802,Rahul Sharma,Pune,Keyboard,Accessories,1,1500.0,15,Net Banking,Returned,1275.0
+ORD000797,2025-03-06,CUST000797,Amit Kumar,Delhi,Keyboard,Accessories,2,1500.0,15,Debit Card,Cancelled,2550.0
+ORD000716,2025-03-02,CUST000716,Arjun Menon,Delhi,Keyboard,Accessories,3,1500.0,30,Net Banking,Returned,3150.0
+ORD000136,2025-11-22,CUST000136,Neha Kapoor,Mumbai,Printer,Electronics,2,8000.0,15,UPI,Cancelled,13600.0
+ORD000431,2025-09-24,CUST000431,Vikram Singh,Coimbatore,Printer,Electronics,5,8000.0,30,Credit Card,Delivered,28000.0
+ORD000658,2025-09-29,CUST000658,Neha Kapoor,Bengaluru,Headphones,Accessories,1,2500.0,20,Debit Card,Returned,2000.0
+ORD000981,2025-06-05,CUST000981,Sneha Reddy,Kochi,Headphones,Accessories,4,2500.0,5,UPI,Cancelled,9500.0
+ORD000072,2025-12-11,CUST000072,Sanjay Das,Pune,Mouse,Accessories,4,700.0,5,DEBIT CARD,Delivered,2660.0
+ORD000631,2025-03-19,CUST000631,Vikram Singh,Coimbatore,Mouse,Accessories,5,700.0,20,Cash,Cancelled,2800.0
+ORD000465,2025-11-08,CUST000465,Priya Nair,Chennai,Headphones,Accessories,3,2500.0,20,Credit Card,Delivered,6000.0
+ORD000988,2025-07-02,CUST000988,Sneha Reddy,Delhi,Smartphone,Electronics,1,30000.0,20,Debit Card,Cancelled,24000.0
+ORD000016,2025-09-22,CUST000016,Sneha Reddy,Bengaluru,Mouse,Accessories,1,700.0,15,UPI,Delivered,595.0
+ORD000394,2025-06-01,CUST000394,Rahul Sharma,Mumbai,Smartwatch,Wearables,3,5000.0,10,Debit Card,Cancelled,13500.0
+ORD000075,2025-05-07,CUST000075,Arjun Menon,Kochi,Monitor,Electronics,1,12000.0,30,Debit Card,Cancelled,8400.0
+ORD000669,2025-09-20,CUST000669,Sanjay Das,Kochi,Monitor,Electronics,2,12000.0,15,Net Banking,Delivered,20400.0
+ORD000761,2025-02-26,CUST000761,Sneha Reddy,Hyderabad,Keyboard,Accessories,4,1500.0,15,Debit Card,Delivered,5100.0
+ORD000607,2025-09-01,CUST000607,Unknown,Hyderabad,Smartwatch,Wearables,2,5000.0,10,Net Banking,Returned,9000.0
+ORD000920,2025-01-11,CUST000920,Sanjay Das,Delhi,Laptop,Electronics,5,55000.0,15,UPI,Cancelled,233750.0
+ORD000407,2025-04-29,CUST000407,Neha Kapoor,Coimbatore,Smartwatch,Wearables,3,5000.0,10,Debit Card,Delivered,13500.0
+ORD000094,2025-01-24,CUST000094,Sneha Reddy,Bengaluru,Smartwatch,Wearables,2,5000.0,15,Credit Card,Delivered,8500.0
+ORD000531,2025-03-13,CUST000531,Unknown,Chennai,Mouse,Accessories,2,700.0,10,Net Banking,Delivered,1260.0
+ORD000284,2025-09-25,CUST000284,Amit Kumar,Delhi,Smartphone,Electronics,5,30000.0,10,UPI,Delivered,135000.0
+ORD000805,2025-04-15,CUST000805,Vikram Singh,Bengaluru,Laptop,Electronics,2,55000.0,30,Net Banking,Delivered,77000.0
+ORD000826,2025-04-06,CUST000826,Neha Kapoor,Hyderabad,Keyboard,Accessories,3,1500.0,30,Cash,Cancelled,3150.0
+ORD000544,2025-05-21,CUST000544,Vikram Singh,Kochi,Monitor,Electronics,1,12000.0,10,Credit Card,Delivered,10800.0
+ORD000322,2025-09-07,CUST000322,Rahul Sharma,Bengaluru,Mouse,Accessories,3,700.0,15,UPI,Delivered,1785.0
+ORD000653,2025-10-01,CUST000653,Unknown,Hyderabad,Keyboard,Accessories,2,1500.0,10,Debit Card,Cancelled,2700.0
+ORD000090,2025-11-26,CUST000090,Meera Iyer,Bengaluru,Laptop,Electronics,3,55000.0,20,Net Banking,Cancelled,132000.0
+ORD000671,2025-11-17,CUST000671,Priya Nair,Bengaluru,Monitor,Electronics,3,12000.0,10,Credit Card,Delivered,32400.0
+ORD000799,2025-11-25,CUST000799,Meera Iyer,Delhi,Mouse,Accessories,1,700.0,10,Debit Card,Cancelled,630.0
+ORD000343,2025-03-20,CUST000343,Priya Nair,Chennai,Smartphone,Electronics,1,30000.0,30,Credit Card,Returned,21000.0
+ORD000861,2025-07-26,CUST000861,Arjun Menon,Delhi,Keyboard,Accessories,2,1500.0,20,Credit Card,Delivered,2400.0
+ORD000383,2025-08-29,CUST000383,Amit Kumar,Coimbatore,Laptop,Electronics,2,55000.0,5,UPI,Cancelled,104500.0
+ORD000410,2025-12-18,CUST000410,Amit Kumar,Pune,Smartphone,Electronics,5,30000.0,30,Credit Card,Cancelled,105000.0
+ORD000756,2025-10-25,CUST000756,Unknown,Kochi,Monitor,Electronics,5,12000.0,30,Net Banking,Cancelled,42000.0
+ORD000014,2025-08-06,CUST000014,Anjali Menon,Kochi,Mouse,Accessories,5,700.0,20,Cash,Returned,2800.0
+ORD000454,2025-05-06,CUST000454,Sneha Reddy,Hyderabad,Printer,Electronics,4,8000.0,10,Cash,Cancelled,28800.0
+ORD000078,2025-12-24,CUST000078,Neha Kapoor,Pune,Smartwatch,Wearables,5,5000.0,15,Net Banking,Cancelled,21250.0
+ORD000690,2025-03-31,CUST000690,Sanjay Das,Chennai,Smartwatch,Wearables,5,5000.0,15,Debit Card,Cancelled,21250.0
+ORD000975,2025-01-28,CUST000975,Sanjay Das,Kochi,Smartwatch,Wearables,3,5000.0,20,Net Banking,Delivered,12000.0
+ORD000869,2025-08-01,CUST000869,Arjun Menon,Chennai,Headphones,Accessories,3,2500.0,5,Credit Card,Cancelled,7125.0
+ORD000201,2025-01-25,CUST000201,Amit Kumar,Mumbai,Smartphone,Electronics,5,30000.0,15,Credit Card,Delivered,127500.0
+ORD000546,2025-10-17,CUST000546,Neha Kapoor,Bengaluru,Monitor,Electronics,3,12000.0,20,Credit Card,Cancelled,28800.0
+ORD000575,2025-08-27,CUST000575,Anjali Menon,Chennai,Monitor,Electronics,1,12000.0,15,Cash,Delivered,10200.0
+ORD000123,2025-05-16,CUST000123,Sneha Reddy,Pune,Headphones,Accessories,3,2500.0,30,UPI,Delivered,5250.0
+ORD000364,2025-04-05,CUST000364,Meera Iyer,Bengaluru,Printer,Electronics,4,8000.0,15,Cash,Cancelled,27200.0
+ORD000345,2025-09-03,CUST000345,Meera Iyer,Coimbatore,Smartphone,Electronics,1,30000.0,5,Cash,Cancelled,28500.0
+ORD000055,2025-04-12,CUST000055,Neha Kapoor,Mumbai,Laptop,Electronics,5,55000.0,15,Debit Card,Delivered,233750.0
+ORD000396,2025-09-08,CUST000396,Anjali Menon,Hyderabad,Mouse,Accessories,2,700.0,10,Net Banking,Delivered,1260.0
+ORD000240,2025-11-08,CUST000240,Sneha Reddy,Kochi,Printer,Electronics,4,8000.0,5,Cash,Delivered,30400.0
+ORD000357,2025-12-24,CUST000357,Rahul Sharma,Bengaluru,Smartwatch,Wearables,2,5000.0,10,Net Banking,Returned,9000.0
+ORD000529,2025-09-20,CUST000529,Amit Kumar,Coimbatore,Monitor,Electronics,1,12000.0,30,Debit Card,Returned,8400.0
+ORD000372,2025-02-02,CUST000372,Priya Nair,Chennai,Headphones,Accessories,3,2500.0,5,Cash,Delivered,7125.0
+ORD000421,2025-04-11,CUST000421,Priya Nair,Hyderabad,Headphones,Accessories,1,2500.0,20,Debit Card,Returned,2000.0
+ORD000503,2025-02-03,CUST000503,Anjali Menon,Bengaluru,Headphones,Accessories,4,2500.0,15,Net Banking,Delivered,8500.0
+ORD000041,2025-11-21,CUST000041,Amit Kumar,Chennai,Smartwatch,Wearables,3,5000.0,15,UPI,Returned,12750.0
+ORD000491,2025-06-04,CUST000491,Arjun Menon,Chennai,Keyboard,Accessories,5,1500.0,10,Credit Card,Cancelled,6750.0
+ORD000257,2025-02-02,CUST000257,Vikram Singh,Kochi,Smartwatch,Wearables,2,5000.0,5,Cash,Cancelled,9500.0
+ORD000734,2025-03-31,CUST000734,Vikram Singh,Pune,Smartphone,Electronics,2,30000.0,20,Net Banking,Cancelled,48000.0
+ORD000528,2025-07-10,CUST000528,Amit Kumar,Coimbatore,Headphones,Accessories,4,2500.0,15,UPI,Delivered,8500.0
