@@ -1,4 +1,4 @@
-# 🚀 Retail Sales ETL Pipeline
+#  Retail Sales ETL Pipeline
 
 An end-to-end Retail Sales ETL (Extract, Transform, Load) pipeline built using **Python, Pandas, MySQL, SQL, Power BI, Git, and GitHub**.
 
@@ -216,7 +216,7 @@ The dashboard helps answer questions such as:
 
 ---
 
-# 🚀 How to Run the Project
+#  How to Run the Project
 
 ## 1. Clone Repository
 
